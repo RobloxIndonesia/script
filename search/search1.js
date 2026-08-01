@@ -23,7 +23,7 @@ users.push({
 {
     avatar: "https://robloxindonesia.github.io/img/30DAY-AvatarHeadshot-ED6E504DCD0989309333C3F87B84DC2E.png",
     displayName: "Roblox_Indonesia",
-    username: "Robiox_lndo",
+    username: "robiox_lndo",
     certified: "/iconsvg/icon.svg",
     plus: "/iconsvg/icon.svg",
 },
