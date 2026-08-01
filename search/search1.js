@@ -2,7 +2,7 @@
 users.push({
     avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BF312426510122AC35984DAC6A25EBE1-Png/720/720/AvatarHeadshot/Webp/noFilter",
     displayName: "Roblox_Indonesia",
-    username: "RobloxIndonesia_old",
+    username: "robloxindonesia_old",
     certified: "/iconsvg/certified.svg",
     plus: "/iconsvg/plus.svg",
 },
@@ -23,7 +23,7 @@ users.push({
 {
     avatar: "https://robloxindonesia.github.io/img/30DAY-AvatarHeadshot-ED6E504DCD0989309333C3F87B84DC2E.png",
     displayName: "Roblox_Indonesia",
-    username: "RobIox_lndo",
+    username: "Robiox_lndo",
     certified: "/iconsvg/icon.svg",
     plus: "/iconsvg/icon.svg",
 },
