@@ -1,0 +1,45 @@
+<div id="link1"></div>
+<div id="link2"></div>
+<div id="link3"></div>
+<div id="link4"></div>
+<div id="link5"></div>
+<div id="link6"></div>
+<div id="link7"></div>
+<div id="text-link8"></div>
+
+<h1 id="text1"></h1>
+<p id="text2"></p>
+<p id="text3"></p>
+
+<script>
+// Data link
+const linkData = [
+    { id: "link1", href: "/home", text: "Home" },
+    { id: "link2", href: "/games-tren", text: "Game Tren" },
+    { id: "link3", href: "/berita", text: "Berita" },
+    { id: "link4", href: "/sejarah", text: "Sejarah" },
+    { id: "link5", href: "#", text: "Tentang Kami" },
+    { id: "link6", href: "#", text: "Bantuan" },
+    { id: "link7", href: "#", text: "Privasi" },
+    { id: "link8", href: "#", text: "Situs Peta" }
+];
+
+linkData.forEach(item => {
+    const link = document.createElement("a");
+    link.textContent = item.text;
+    link.href = item.href;
+
+    document.getElementById(item.id).appendChild(link);
+});
+
+// Data teks
+const textData = [
+    { id: "text1", teks: "Halo" },
+    { id: "text2", teks: "Selamat Datang" },
+    { id: "text3", teks: "Belajar JavaScript" }
+];
+
+textData.forEach(item => {
+    document.getElementById(item.id).textContent = item.teks;
+});
+</script>
