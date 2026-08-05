@@ -33,4 +33,54 @@ users.push({
     username: "akudaf_6802",
     certified: "/iconsvg/certified.svg",
     plus: "/iconsvg/plus.svg",
-});
+},
+{
+    avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6F02416534D0368E352A5F9E13535357-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    displayName: "AL_Rafasya10",
+    username: "al_rafasya10",
+    certified: "/iconsvg/plus.svg",
+    plus: "/iconsvg/icon.svg",
+},
+{
+    avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-AFE2584BA0F487FC23668BFDCF97CC66-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    displayName: "ATR_Neymar",
+    username: "atharazka17",
+    certified: "/iconsvg/plus.svg",
+    plus: "/iconsvg/icon.svg",
+},
+{
+    avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BFCEA8B3A3EAF2BF70455ABD72655A7B-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    displayName: "John",
+    username: "frank70088",
+    certified: "/iconsvg/plus.svg",
+    plus: "/iconsvg/icon.svg",
+},
+{
+    avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-78F6E668EA01388D39245B8504DD0C41-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    displayName: "XD_fadli",
+    username: "limus49",
+    certified: "/iconsvg/plus.svg",
+    plus: "/iconsvg/icon.svg",
+},
+{
+    avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1D97C7F8DE8EA63A6BE0B3864CE1AD3D-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    displayName: "ois",
+    username: "kitaakanmenjaditeman",
+    certified: "/iconsvg/icon.svg",
+    plus: "/iconsvg/icon.svg",
+},
+{
+    avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C598E7E8ECB9FB84A2ECD274D2876F6A-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    displayName: "inc0mu",
+    username: "aping_37210",
+    certified: "/iconsvg/icon.svg",
+    plus: "/iconsvg/icon.svg",
+},
+{
+    avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B5A006DDB143790237563E1DB483A87F-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    displayName: "RASYID_cOOIKidd27",
+    username: "rasyid_cooikidd27",
+    certified: "/iconsvg/certified.svg",
+    plus: "/iconsvg/plus.svg",
+}
+);
