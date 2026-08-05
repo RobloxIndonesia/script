@@ -24,6 +24,7 @@ const memakai = [
     {nama:"Kalung YouTube", gambar:"https://tr.rbxcdn.com/180DAY-9bc159ae9d310a2572ff1d8f403a2335/720/720/NeckAccessory/Webp/noFilter"},
     {nama:"T-shirt Logo Roblox Indonesia v2", gambar:"https://tr.rbxcdn.com/180DAY-03f30c066d91fa10ffe7f3395c742179/720/720/Tshirt/Webp/noFilter"},
     {nama:"Standar Stevie", gambar:"https://tr.rbxcdn.com/30DAY-DynamicHeadCostume-9318E0E3190D8D34FAE56F048430BA9F-Png/720/720/DynamicHeadCostume/Webp/noFilter"},
+    {nama:"Pria Roblox", gambar:"https://tr.rbxcdn.com/30DAY-Avatar-683F7E7130A933CCD28CBF333AD5581F-Png/420/420/Avatar/Webp/noFilter"},
     {nama:"Jeans Hijau Gelap", gambar:"https://tr.rbxcdn.com/180DAY-596d5c180068725a14691864bc353931/720/720/Pants/Webp/noFilter"},
     {nama:"Topi Bisbol Roblox", gambar:"https://tr.rbxcdn.com/180DAY-e52847fa471ef24a0baaa50ac7fd43a2/720/720/Hat/Webp/noFilter"},
     {nama:"Jaket Roblox", gambar:"https://tr.rbxcdn.com/180DAY-914b519635775ae28b804e7d93acc928/720/720/Shirt/Webp/noFilter"},
