@@ -31,3 +31,9 @@ const favorit = [
     {nama:"Game 2", gambar:"https://robloxindonesia.github.io/img/180DAY-a17918617b20ac9c39b305241f23e58a.png"},
     {nama:"Game 3", gambar:"https://robloxindonesia.github.io/img/180DAY-a17918617b20ac9c39b305241f23e58a.png"}
 ];
+
+const komunitas = [
+    {nama:"komunitas 1", gambar:"https://robloxindonesia.github.io/img/180DAY-a17918617b20ac9c39b305241f23e58a.png"},
+    {nama:"komunitas 2", gambar:"https://robloxindonesia.github.io/img/180DAY-a17918617b20ac9c39b305241f23e58a.png"},
+    {nama:"komunitas 3", gambar:"https://robloxindonesia.github.io/img/180DAY-a17918617b20ac9c39b305241f23e58a.png"}
+];

@@ -52,6 +52,7 @@ function tampilkan(data, id) {
 
 tampilkan(memakai, "memakai");
 tampilkan(favorit, "favorit");
+tampilkan(komunitas, "komunitas");
 
 // Gambar berhasil dimuat
 banner.onload = () => {
