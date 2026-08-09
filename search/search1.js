@@ -82,5 +82,12 @@ users.push({
     username: "rasyid_cooikidd27",
     certified: "/iconsvg/certified.svg",
     plus: "/iconsvg/plus.svg",
+},
+{
+    avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-72427CA0DAB1A1EBFADF984423093A9F-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    displayName: "COiny",
+    username: "fatihrahman_21",
+    certified: "/iconsvg/certified.svg",
+    plus: "/iconsvg/plus.svg",
 }
 );
