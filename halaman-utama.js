@@ -1,7 +1,7 @@
 // Data teks
 const textData = [
     { id: "text1", teks: "©2026 By RobloxIndonesia_old" },
-    { id: "text2", teks: "Versi Website 2.1v" }
+    { id: "text2", teks: "Versi Website 3.7v" }
 ];
 
 textData.forEach(item => {
@@ -68,7 +68,7 @@ const back = document.getElementById("back");
 
 
 // Logo 
-const urlLogo = "https://robloxindonesia.github.io/img/logo.png";
+const urlLogo = "/img/logo.png";
 
 const img1 = document.createElement("img");
 img1.src = urlLogo;
