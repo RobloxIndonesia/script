@@ -20,7 +20,7 @@ const profil = {
 }
 
 const memakai = [
-    {nama:"Lencana Pembangunan", gambar:"https://robloxindonesia.github.io/img/180DAY-a17918617b20ac9c39b305241f23e58a.png"},
+    {nama:"Lencana Pembangunan", gambar:"/img/lencana-pembangunan.png"},
     {nama:"T-shirt Logo Roblox Indonesia v2", gambar:"https://tr.rbxcdn.com/180DAY-03f30c066d91fa10ffe7f3395c742179/720/720/Tshirt/Webp/noFilter"},
     {nama:"Standar Stevie", gambar:"https://tr.rbxcdn.com/30DAY-DynamicHeadCostume-9318E0E3190D8D34FAE56F048430BA9F-Png/720/720/DynamicHeadCostume/Webp/noFilter"},
     {nama:"Pria Roblox", gambar:"https://tr.rbxcdn.com/30DAY-Avatar-683F7E7130A933CCD28CBF333AD5581F-Png/420/420/Avatar/Webp/noFilter"},
