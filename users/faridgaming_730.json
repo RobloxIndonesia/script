@@ -1,0 +1,628 @@
+{
+  "description": "FOLLOW akun gw",
+  "created": "2025-04-08T01:17:01.212Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": true,
+  "id": 8276660560,
+  "name": "FARIDgaming_730",
+  "displayName": "FARID_RC",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-6C6724CD5BDBFC733531C978D8E38AC4-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6C6724CD5BDBFC733531C978D8E38AC4-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 333,
+  "followersCount": 7,
+  "followingCount": 14,
+  "communities": [
+    {
+      "id": 579394906,
+      "name": "Flying Blocks",
+      "memberCount": 1924597,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-462afb1d00289b30e7a91ca18841805a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 140103299,
+      "name": "Low Health Games",
+      "memberCount": 913925,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 468500072,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-83ae6642af2b5d44e9cc7ec503270fa2/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 16976426,
+      "name": "Blu Cat Studios",
+      "memberCount": 1037194,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 94644037,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b6f33415d32ec29985b01af1941b2bd1/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 33026618,
+      "name": "TRICK CLOCK",
+      "memberCount": 402674,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 101118996,
+        "name": "🏆Best player",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-cf8709af0f74fc141fe12060b5af5756/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 703971079,
+      "name": "FACEPAINTING",
+      "memberCount": 1594283,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 580122018,
+        "name": "facepainters!",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0f0208ff8a582e1fa15bc77555ad3c76/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35669818,
+      "name": "크롱 스튜디오",
+      "memberCount": 55076461,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 290676163,
+        "name": "멤버",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-58bdb4485dd668671e1ddbf88af8258c/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 718088868,
+      "name": "Towering Towers",
+      "memberCount": 10314017,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 617223222,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-cb7815d3808010690419768eb0f89151/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 546696259,
+      "name": "$ouline",
+      "memberCount": 1746305,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 542974129,
+        "name": "Owner",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-50dec319f5a1e67a4a48f68eda234a91/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 249174570,
+      "name": "adidas x Superstar",
+      "memberCount": 85101,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 624651018,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-672f534620958b7e64628cbe811e9d6e/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14460818,
+      "name": "Logitech Song Breaker Awards",
+      "memberCount": 723245,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 82010777,
+        "name": "Fan",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f8064364a489f6bdddab91e58c48f124/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 137147665,
+      "name": "Ninja Hub",
+      "memberCount": 482064,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 541014088,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9c1e4b53ef05bbda1c8d80d185da35a0/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 33127608,
+      "name": "AR STUDIO V1",
+      "memberCount": 975114,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 101643631,
+        "name": "Owner",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-51ada2643463d3e46392fa8b5c62ec23/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 10587104,
+      "name": "mPhase",
+      "memberCount": 4289257,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 62899752,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-69a24672df0ac2154fe585fae5986936/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 15102943,
+      "name": "Catalog Avatar Creator",
+      "memberCount": 40770850,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 85245797,
+        "name": "✨ Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-33d8c30fc374a244e81a23074d40ee24/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 708526352,
+      "name": "Devaste Studio",
+      "memberCount": 1224885,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 559074061,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5420157cc938864bd1aebfe6703caa78/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 34242037,
+      "name": "Slime Time Studios",
+      "memberCount": 4521289,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 107735987,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fb5c9b7e805dc8865b99b67ae7296af3/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35324876,
+      "name": "The Bopes",
+      "memberCount": 5240664,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 253744006,
+        "name": "Bopes",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-bc0a8578ea7e9cee7c508fa62c05863a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 84076870,
+      "name": "The UGC Game",
+      "memberCount": 63290,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 612266545,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b6f8f4ee775d9f7f45718c5b637ba1b6/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35907428,
+      "name": "LED’s UGC",
+      "memberCount": 50474,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 358178042,
+        "name": "Thee Enthusiasts ",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ea88276f8c238c00c00e75803a9f8a4d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 79541074,
+      "name": "Christopher's Hideout",
+      "memberCount": 759275,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 432820091,
+        "name": "hiders",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-18ddd9d10d028f5c78e51f7e3462ccea/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 36041335,
+      "name": "Nectar Creations",
+      "memberCount": 2233927,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 383578256,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2aec3d83e6454901857de7ccff02c137/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35683330,
+      "name": "Awan Studio's",
+      "memberCount": 4734,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 298876000,
+        "name": "Anggota",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b8ac2906a193aca94829a286d1ceaa67/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 32678989,
+      "name": "zTECHS",
+      "memberCount": 359227,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 99245248,
+        "name": "Members",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d408052937b87b420b4e49a2050f4cf7/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 8275393,
+      "name": "A.A Fun",
+      "memberCount": 700111,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 51014734,
+        "name": "🎇A.A Fun🎇",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0a0f8032dc748ca1b1c7dfc3d078d870/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14887697,
+      "name": "Monsta Game",
+      "memberCount": 58873,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 84143695,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-233527523cfa926ede8679ca37c55cfd/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 12121240,
+      "name": "Quataun",
+      "memberCount": 17708097,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 70561179,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-096be28210d807d274b8b970bd348d72/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 10669182,
+      "name": "Jxiere Fan Group",
+      "memberCount": 179863,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 63316530,
+        "name": "Jet's Fans",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d630242f7dd718d0ba01a8892758cb68/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3104358,
+      "name": "Brookhaven by Voldex",
+      "memberCount": 12006480,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 21339070,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9e81ca266381cba504751e909b880cc2/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14984341,
+      "name": "Copyrend's Community",
+      "memberCount": 6162794,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 84635464,
+        "name": "🌀 Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e35be2578842526927fe00fa18462bb7/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14097003,
+      "name": "haz3mn",
+      "memberCount": 618411,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 80175251,
+        "name": "member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-33e46119b8f4e21d57dffd16d595dcd9/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 5502182,
+      "name": "ZeddaxGaming",
+      "memberCount": 199548,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 36377917,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ab2a453cc5a7a8557dd751bc8fe9d266/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7923838,
+      "name": "Miminers",
+      "memberCount": 314830,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 49260194,
+        "name": "Miminers",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d9e301de18bedc30a213dad9de0e5a1d/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 48474356,
+      "name": "ROBLOX Girl - Torso",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c93215ae2e0f6b00c6d36edb06dbc9d6/150/150/Torso/Png/noFilter"
+    },
+    {
+      "id": 376527500,
+      "name": "Orange Shades",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5d3805ddaa5fae72e86405d63b0b2b59/150/150/FaceAccessory/Png/noFilter"
+    },
+    {
+      "id": 2510230574,
+      "name": "Rthro Climb",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4c6caabc04393842e252b4a51fcccb62/150/150/ClimbAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510233257,
+      "name": "Rthro Fall",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f3e2271075e28f6170e285f0cce66ee0/150/150/FallAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510235063,
+      "name": "Rthro Idle",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e6f3a18514b1a4865084f8f0491b9a01/150/150/IdleAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510236649,
+      "name": "Rthro Jump",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0ea1385a412e94431d16fbe5b8212e21/150/150/JumpAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510238627,
+      "name": "Rthro Run",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-818b181a39fabe94c2a45efdc258b2d9/150/150/RunAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510240941,
+      "name": "Rthro Swim",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a45f60ea96e33dd0c166079ec06a8ddb/150/150/SwimAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510242378,
+      "name": "Rthro Walk",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-258c547ad40df233a2eba719c80d7823/150/150/WalkAnimation/Png/noFilter"
+    },
+    {
+      "id": 4637116155,
+      "name": "Classic Male v2 - Left Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-56fdd2c413d76811323914128b53e5d9/150/150/LeftArm/Png/noFilter"
+    },
+    {
+      "id": 4637242874,
+      "name": "Classic Male v2 - Right Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-db79ffdda90e29bf43e383a05ea4abbf/150/150/RightArm/Png/noFilter"
+    },
+    {
+      "id": 6445270994,
+      "name": "Hair",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-dcf35e01634061da049f7cd8777d46e4/150/150/HairAccessory/Png/noFilter"
+    },
+    {
+      "id": 7084692320,
+      "name": "Dart Glasses",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5b07fa76ab11181e070248f20a87892b/150/150/FaceAccessory/Png/noFilter"
+    },
+    {
+      "id": 9617735276,
+      "name": "Desert Boot Headphones",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9093b123c83a94528ed3d0aa2f5cbb46/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 10725826963,
+      "name": "Man Face - Head",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d237e21a97efc4b0af9fdd47c9d5fecb/150/150/DynamicHead/Png/noFilter"
+    },
+    {
+      "id": 10725833199,
+      "name": "Man Face - Mood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8e8d9e30f84eab0c8674d9e5b7f0f348/150/150/MoodAnimation/Png/noFilter"
+    },
+    {
+      "id": 10905429074,
+      "name": "CHM Compass Necklace ",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-358e1aee08303adb21cb0ccc11e63918/150/150/NeckAccessory/Png/noFilter"
+    },
+    {
+      "id": 13744441119,
+      "name": "Yama Cape",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7b68cad7dc8fcc6d86e8d6fde6ff6033/150/150/BackAccessory/Png/noFilter"
+    },
+    {
+      "id": 16948958490,
+      "name": "💖ˏˋ✮FF🔫⋆ ORIGINAL Angelical Red Boys † Cyber ",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-95c7554b58db728081ad164dad4ea0c6/150/150/Pants/Png/noFilter"
+    },
+    {
+      "id": 17421121080,
+      "name": "[Classic] Red & Black Jacket Transparent",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-693a8e5f5c762031bb6dc1d8c9882354/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 90097144470297,
+      "name": "Creepy Nuts Hoodie (Black) ",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f21e30e7309586f400d6ab996b1b7651/150/150/SweaterAccessory/Png/noFilter"
+    },
+    {
+      "id": 109002285829966,
+      "name": "Best Audience Award – Roblox Innovation Awards",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-be4b5615adecf37086a63d5e274ffedc/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 127067824818661,
+      "name": "Google Headphones",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0cd15c91ec94ce84c7f21f94458373bb/150/150/Hat/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [
+    {
+      "id": 9825607089,
+      "name": " [🌈] Stealz Lucky Blocks Brainrotz FREE OG! 💸",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-17c8836d1856f685cc4fd18cf3a17ed1/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9627323159,
+      "name": "POPPY PLAYTIME 5 STORY🧸",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3c97c36f0d83fbc7a6c5cd67b6b55a20/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9695910483,
+      "name": "Game",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-79f3e824199435988b7a2a3e9ce74882/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 5677613211,
+      "name": "Eat the World",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-adc91a1e3e45beea5a244cc1ccbfc552/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9142917248,
+      "name": "[🏜] Fly Hide & Seek",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b893dd57b0180ab60589ad0b4c760c07/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 8857753234,
+      "name": "🧠 Steals Da Brainrots",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c6b1116fb892bd00acbf91ad739d4555/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 8857953952,
+      "name": "🧠 Steals Da Brainrots",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-cad6da8e12d203015f89cd1c5f61eb48/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4951208293,
+      "name": "blue vs red - animation",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9388a49f46b33bb99a38df514d2c9e47/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3317679266,
+      "name": "PLS DONATE 💸",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a8c2faf226f0d89bed86a7d5e9683789/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2029776337,
+      "name": "Impostor | Among us",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-37fa06eec43df66d32ef5f56a26f67bf/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1686885941,
+      "name": "Brookhaven 🏡RP",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-18a8ad6e9d17d2fa2a0abae01b5ab648/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3948208641,
+      "name": "GARENA FREE FIRE MAX REMASTERED [50% OFF SALE] 😵",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8e80c4d2f1748ca4473e9146d67165b9/150/150/Image/Png/noFilter"
+    }
+  ],
+  "creations": [
+    {
+      "id": 7506051857,
+      "name": "Tempat FARIDgaming_730",
+      "description": "Ini adalah kreasi Roblox pertamamu. Ayo cek lalu buat sendiri dengan Roblox Studio!",
+      "placeId": 104760044825109,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2025-04-08T01:17:01.987Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d111e601a049bc036dbee4dd47894778/150/150/GameIcon6/Png/noFilter"
+    }
+  ]
+}

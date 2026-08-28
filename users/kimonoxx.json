@@ -1,0 +1,515 @@
+{
+  "description": "MIMIN ROBLOX TOPIC INDONESIA!!!",
+  "created": "2020-04-25T22:44:46.583Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": false,
+  "id": 1591372547,
+  "name": "kimonoxx",
+  "displayName": "Mimin",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-3488DF67E9844FC458987C7F5CD64723-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3488DF67E9844FC458987C7F5CD64723-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 77,
+  "followersCount": 102370,
+  "followingCount": 6,
+  "communities": [
+    {
+      "id": 789550514,
+      "name": "Last Hope - Production",
+      "memberCount": 783,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-aa1e1d9e89442e9e447e5e05a737e9d3/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 540005765,
+      "name": "Studio Kaki Lima",
+      "memberCount": 307,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 573968003,
+        "name": "RTI",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-bd4860faf56f8ef77c10e42675dbc9e8/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14984341,
+      "name": "Copyrend's Community",
+      "memberCount": 6164098,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 268562199,
+        "name": "⭐ Content Creator",
+        "rank": 3
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e35be2578842526927fe00fa18462bb7/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35590964,
+      "name": "Trash :v Dev",
+      "memberCount": 1268,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 274978037,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9b85c309ed71c9c509ad0626e7bbc164/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 33424891,
+      "name": "Undercover Studio Roblox",
+      "memberCount": 462,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 103235127,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-bf56de99510b98335366293c7c30315d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 12211194,
+      "name": "Miminers Studio",
+      "memberCount": 18,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 85116614,
+        "name": "kimonoxx",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f0ea7c18d093ea94527d9025d77968d8/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 13238061,
+      "name": "Rifly Entertainment",
+      "memberCount": 61452,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 76839172,
+        "name": "visitors",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9d6dacb1e4c435267e07a4a0e199bbc0/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 11381011,
+      "name": "Roblox Studio Indonesia Group",
+      "memberCount": 2933,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 66893544,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0a997051ab2131b6be2addf604e368c4/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9514773,
+      "name": "HH Games Studio",
+      "memberCount": 65439,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 73393704,
+        "name": "Youtuber",
+        "rank": 3
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-dd62a1f7e7cd3f9ed63ba4b8b9e8e774/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 11128801,
+      "name": "Roblox Youtuber Competition",
+      "memberCount": 16,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 65606072,
+        "name": "Youtuber",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-02173cef2fd1c622d9b0e3f322e79210/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7770032,
+      "name": "Sejahtera Abadi",
+      "memberCount": 130457,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 48451302,
+        "name": "Content Creator",
+        "rank": 30
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-92b9de6edca50a249d46bd14167bcb32/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7937221,
+      "name": "ASA Games Studio",
+      "memberCount": 1023,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 50182458,
+        "name": "Youtuber",
+        "rank": 100
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-634d653a388e5a2f09971a6aa68f98f5/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7923838,
+      "name": "Miminers",
+      "memberCount": 314836,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 49260192,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d9e301de18bedc30a213dad9de0e5a1d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6065145,
+      "name": "R A M",
+      "memberCount": 113441,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 39517977,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a78c4ffdbe0aeb72aa64abafae25c217/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 832676,
+      "name": "Asosiasi Komunitas Roblox Indonesia",
+      "memberCount": 462118,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 17118033,
+        "name": "Liaison",
+        "rank": 99
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-183e47ce20e1f4bd303c2a4ff17d4d56/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 398633812,
+      "name": "Black Jeans with White Shoes",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-333997cc59ec900b41b5dd51850bfa6a/150/150/Pants/Png/noFilter"
+    },
+    {
+      "id": 607702162,
+      "name": "Roblox Baseball Cap",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e52847fa471ef24a0baaa50ac7fd43a2/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 2510230574,
+      "name": "Rthro Climb",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4c6caabc04393842e252b4a51fcccb62/150/150/ClimbAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510233257,
+      "name": "Rthro Fall",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f3e2271075e28f6170e285f0cce66ee0/150/150/FallAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510235063,
+      "name": "Rthro Idle",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e6f3a18514b1a4865084f8f0491b9a01/150/150/IdleAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510236649,
+      "name": "Rthro Jump",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0ea1385a412e94431d16fbe5b8212e21/150/150/JumpAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510240941,
+      "name": "Rthro Swim",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a45f60ea96e33dd0c166079ec06a8ddb/150/150/SwimAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510242378,
+      "name": "Rthro Walk",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-258c547ad40df233a2eba719c80d7823/150/150/WalkAnimation/Png/noFilter"
+    },
+    {
+      "id": 3670737444,
+      "name": "Roblox Shirt - Simple Pattern",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fdfe24ce27cfd8dc42697b6f48e14750/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 5591898874,
+      "name": "Black Hoodie",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-183079d6b082ea63d402ff2086fdada0/150/150/NeckAccessory/Png/noFilter"
+    },
+    {
+      "id": 5810008269,
+      "name": "KAOS LOGO MIMIN vers.1",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1ae16110ab974d4dc74bee1d7c71e34b/150/150/Tshirt/Png/noFilter"
+    },
+    {
+      "id": 12583696844,
+      "name": "Miminers Shoulder Pal",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-553c4627b56b52b2114f6717c6ddf8ce/150/150/ShoulderAccessory/Png/noFilter"
+    },
+    {
+      "id": 14306702470,
+      "name": "Black Cat Pocket",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-583a40ae1cd5f7b674e45cc803e0b3e3/150/150/FrontAccessory/Png/noFilter"
+    },
+    {
+      "id": 98079085369429,
+      "name": "Cute Climbing Cat - Back",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-debea162d0b00f35a329f1836e71041d/150/150/BackAccessory/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [
+    {
+      "id": 9414215745,
+      "name": "Bad Luck Escape [BETA]",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a71ac6768142f1ed2af7d2021b625d90/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3495710759,
+      "name": "imagine",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c86b7d253016e3d58e6a91a13f62dab7/150/150/GameIcon12/Png/noFilter"
+    },
+    {
+      "id": 187796008,
+      "name": "Those Who Remain",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-709eb154975041b815f8a798531d64bd/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3240343305,
+      "name": "[PART 2] Forgotten Memories 🍕",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-43584d49f4adc0923072050b79ae8aa6/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3085257211,
+      "name": "Rainbow Friends",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-52711cf678d6a095888b0d4c8f893809/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3361260701,
+      "name": "Find The Bacons (180)",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-62b116c74136109829dcce64c78cc23c/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2585430167,
+      "name": "[PAYBACK] AIMBLOX 🔵",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-89af8cb31753b69d2ae9f3da486dec51/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3295084723,
+      "name": "ROHANGAN",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3fc717c458fd6199a2b5813e93b5692f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2181055308,
+      "name": "The Monox",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2662e6b81f8a6527fdc71b9734489a83/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2640407187,
+      "name": "(UPDATE!) Car Driving Indonesia",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f596e61604189125ac36c215e7201d0e/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2714521140,
+      "name": "Z̸ ̸A̸ ̴L̵ ̴G̷ ̴O̶",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-71c2c9437720814894c7a3c6a93e00ca/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 358276974,
+      "name": "Apocalypse Rising 2",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-85a9900216c274f656f58e3f43cb14f6/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2092410051,
+      "name": "Retail Tycoon 2",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4e84552ad25e1afcfb98c26158fe13c0/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2413058908,
+      "name": "BETA | Big Boss World ",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-209501d5da7db2bd070c0c04f63f6879/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2933605189,
+      "name": "Fish Game",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-96d24e010393c6dc6820b17a32ee59df/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2672158433,
+      "name": "横冲直撞小哪吒",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c067fe8ab593607ec94ff40417412865/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1830480517,
+      "name": "Vortex Engine",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fd22a1bdf53bfd43462d56d377dbbdd7/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 383310974,
+      "name": "[24H⌛] Adopt Me!",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-372ef8df697eb826f7cfbf5c2e90f98d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1655411599,
+      "name": "[HYPERCAR!] Project Trackday ",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1189fe9b3207895b2296debf890bb5ea/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 113491250,
+      "name": "Phantom Forces",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-717f6839a37d00ddc8bcc9863e7ae6da/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2118796018,
+      "name": "Hafiz GO : Skyland Tower",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3fc17c296460c5a8c88a108a601a2031/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1720936166,
+      "name": "[UPD] All Star Tower Defense",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-78528f46f165ee9ab230dd78238b9b07/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 169302362,
+      "name": "Project Lazarus: 💀 ZOMBIES 💀",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-735ea2e2dcba6d6553dc0494c867c07f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1091907805,
+      "name": "[🌴] Unboxing Simulator",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2687629ce188711e3047771d7b5a67c4/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2012508359,
+      "name": "Airplane 4 [Story] ✈️",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a795b10a29ae569841365d955478287a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9113127,
+      "name": "Neon District RP",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1a6e3502166c4ea0434d8376635f8c08/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1392804096,
+      "name": "Hanoman City (BETA)",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0846767a9f6cd36d3adf05e3373dafe1/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 728962046,
+      "name": "JAKARTA | Gambir Subdistrict",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-07f29ba1d5e8183c50f2ef49e5e3503b/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1957823954,
+      "name": "pulu pulu statue [DI TUTUP]",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a49ff72c5a36e3b969890d8a043e89d2/150/150/Image/Png/noFilter"
+    }
+  ],
+  "creations": [
+    {
+      "id": 7188870845,
+      "name": "Aku Bocil Obby [ALPHA]",
+      "description": "Selamat datang di \"Aku Bocil - Obby !\" \n\nMasuki dunia penuh tantangan dan keseruan bersama si bocil yang lucu! Di game obby ini, kamu akan melompat, berlari, dan menghindari berbagai rintangan yang unik dan kreatif. Setiap level menghadirkan tantangan baru yang semakin sulit, namun tetap menyenangkan!\n\nLevel Bervariasi: Mulai dari taman bermain, rumah pohon, hingga kota besar yang penuh jebakan!\n\nKustomisasi Bocil: Ganti-ganti kostum bocilmu dengan pilihan lucu dan keren!\n\nMode Multiplayer: Tantang teman-temanmu untuk melihat siapa yang bisa menyelesaikan obby lebih cepat!\n\nUpdate Berkala: Akan ada level baru, kostum, dan fitur menarik lainnya di setiap update!\n\nApakah kamu siap membantu bocil melewati semua rintangan? Ayo buktikan bahwa kamu adalah Master Obby sejati!\n\nJangan lupa untuk like dan favorite game ini, serta tinggalkan komentar agar kami tahu fitur apa yang ingin kamu lihat di update selanjutnya!\n\nSelamat bermain dan semoga kamu terhibur di \"Aku Bocil - Obby\"",
+      "placeId": 92960256328349,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2025-02-03T08:03:16.063Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-aac2172b2ef47796565e047d2edcecac/150/150/Image/Png/noFilter"
+    }
+  ]
+}

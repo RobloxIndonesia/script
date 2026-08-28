@@ -1,0 +1,1815 @@
+{
+  "description": "",
+  "created": "2010-08-29T08:06:19.14Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": true,
+  "id": 9967085,
+  "name": "maulanaasgaf",
+  "displayName": "Maul",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-FE2BD0018E9C1152870F9A854D284844-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FE2BD0018E9C1152870F9A854D284844-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 231,
+  "followersCount": 6772,
+  "followingCount": 162,
+  "communities": [
+    {
+      "id": 782756245,
+      "name": "Grab Universe",
+      "memberCount": 1228,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 776539025,
+        "name": "Admin",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fddd755034bdf685f45f507511305a51/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 581507649,
+      "name": "OFFICIAL EVOS ESPORTS (KANDANG MACAN)",
+      "memberCount": 4261,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 781017125,
+        "name": "EVOS Dev",
+        "rank": 250
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-35ffa2668881b822b2fffc2e59760b3b/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 470203727,
+      "name": "PAPER PLANES!!",
+      "memberCount": 491589,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-87fe37524c2af36f2fab5687fbd364f2/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 581196675,
+      "name": "Ka Boom!",
+      "memberCount": 186600,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 601196184,
+        "name": "Friends!",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6fd17d7310ed0539e5d2270e437e5249/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 728766418,
+      "name": "OddQuest Studio",
+      "memberCount": 60605,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 612994504,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fcaad6040e15159eb7fee429942cd859/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 540005765,
+      "name": "Studio Kaki Lima",
+      "memberCount": 307,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 640595129,
+        "name": "Testers",
+        "rank": 5
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-bd4860faf56f8ef77c10e42675dbc9e8/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 568669023,
+      "name": "Flying Beak",
+      "memberCount": 10,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 622699009,
+        "name": "Developers",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9ac4c5559f17eaeb296b798b932adbce/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 920879481,
+      "name": "Indo Voice Team",
+      "memberCount": 77,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 626337234,
+        "name": "Creator",
+        "rank": 250
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f4b9ac11c277f9a918f643cbc76b1bbf/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 965384412,
+      "name": "KARIS Community",
+      "memberCount": 35275,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 432062054,
+        "name": "★ supporters",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-dc340799d6c23cc4e573d449d6b9e43a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 33090528,
+      "name": "Vera Italia",
+      "memberCount": 3134,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 101455865,
+        "name": "Membro",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4f4784935ecb385025ad5c2113449653/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 522345182,
+      "name": "Volumetric Studio",
+      "memberCount": 56,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 611574094,
+        "name": "Partners",
+        "rank": 2
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5da3ddeec3782784ca1eee6f2f26395a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 13301770,
+      "name": "Indo Hangout",
+      "memberCount": 122436,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 76252138,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e16f7a0e1c80e0244493075508d5d337/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35542810,
+      "name": "Shinji Sho",
+      "memberCount": 776984,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 497276150,
+        "name": "Special",
+        "rank": 101
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f0cc2d367cae9cc69bf495a8cbcde331/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 209821297,
+      "name": "Indonesia Events",
+      "memberCount": 542,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 473222126,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-860d4d7f717a14a5f38e9fbc2183856b/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 32719179,
+      "name": "Project Zero Group",
+      "memberCount": 42579,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 450510015,
+        "name": "Roblox Administrator",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0c46dc88b40e803e040bad11c9ece663/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35798686,
+      "name": "Sarimi Gelas",
+      "memberCount": 9599,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 418430061,
+        "name": "Super Admin",
+        "rank": 253
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-09bc1010e5e9ab0ea33906aed50bfa2a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35836129,
+      "name": "Barisan UGC",
+      "memberCount": 471,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 349348131,
+        "name": "Barisan Belakang",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-aeeac25aecabc8f17d9af75b9c4079f1/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14984341,
+      "name": "Copyrend's Community",
+      "memberCount": 6164072,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 84635464,
+        "name": "🌀 Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e35be2578842526927fe00fa18462bb7/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35602585,
+      "name": "Indo Voice Community",
+      "memberCount": 17218,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 275462114,
+        "name": "Owner",
+        "rank": 251
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-eb498bf5cf0e8bdb3b1383bdb17e26b4/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35565469,
+      "name": "Pelangi di Mars",
+      "memberCount": 1316,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 269606392,
+        "name": "Admin",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-584a9121f46730e1889b3faa3e3eabe1/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 5273516,
+      "name": "The Gang Stockholm",
+      "memberCount": 6188569,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 35078642,
+        "name": "Player",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6b5510c34b8fb8657403c40ef0513694/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 34909501,
+      "name": "Restless Community",
+      "memberCount": 35504,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 146636053,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-733f8a7b78a0fe4d6b404c4913342d76/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35097690,
+      "name": "Roblox Thailand Community & Network",
+      "memberCount": 17103,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 187952214,
+        "name": "International Ambassador",
+        "rank": 9
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-19fc313052450eb3231f001d98f68e7a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35138212,
+      "name": "Leika UGC",
+      "memberCount": 197,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 190198170,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8c847d00d2e5ed330c0520961a4dd6ac/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 34930763,
+      "name": "bh anu",
+      "memberCount": 2,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 147656219,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-aa9bff868c18d2a060fc1a6ee0964d35/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 34918124,
+      "name": "Mahakarya Pictures",
+      "memberCount": 16,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 147156122,
+        "name": "Admin",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d1d57bee3a54b2e41fa48cb6f6f4d2cb/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 832676,
+      "name": "Asosiasi Komunitas Roblox Indonesia",
+      "memberCount": 462117,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 5106947,
+        "name": "Chief Executive Officer",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-183e47ce20e1f4bd303c2a4ff17d4d56/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 16371868,
+      "name": "Baju Nusantara",
+      "memberCount": 2578,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 135308084,
+        "name": "Elite Clients",
+        "rank": 5
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-dc82ed8c249690b5db18c80951d7f382/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 34722862,
+      "name": "Badan Riset and Inovasi Nasional",
+      "memberCount": 14,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 120176062,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-aab85b5ff61bf3618e17ccb58d402b68/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14984056,
+      "name": "Kalananti",
+      "memberCount": 1572,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 87734251,
+        "name": "Master Teacher",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1321906a50ead7455c368cf17a5d2a0d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 16768288,
+      "name": "Roblox Developers Conference '24",
+      "memberCount": 1524,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 109138341,
+        "name": "Fan",
+        "rank": 249
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5f372feb7ad71ef6e5efac9f104ef99c/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2832979,
+      "name": "Mawar Studio",
+      "memberCount": 1125,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 109151524,
+        "name": "Alpha/Beta Tester",
+        "rank": 251
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-051fb5273872ab70269487419e6d1b91/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 34369739,
+      "name": "KPK RI",
+      "memberCount": 38,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 108451117,
+        "name": "Admin",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-de76ff67e6d4a41470e3260d2d60d9a3/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 15657208,
+      "name": "Ibu Kota Negara Indonesia",
+      "memberCount": 15574,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 87977083,
+        "name": "Developer",
+        "rank": 253
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-31b86017e4202ab8e388fa93432dd8b3/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 33708484,
+      "name": "AKRI.lua",
+      "memberCount": 16,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 104761424,
+        "name": "Project Manager",
+        "rank": 6
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ea044a89d049496972d2f2b105d20078/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 33499423,
+      "name": "BAWASLU",
+      "memberCount": 2,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 103641364,
+        "name": "AWAS LU",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-99b1b026ccca43ea458076174ed9d0ac/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 15579334,
+      "name": "Sahabat Productions",
+      "memberCount": 779756,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 87578033,
+        "name": "You Guys",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ea26bdbdd8ec5308124a41bf41476e14/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 32589470,
+      "name": "Orion's",
+      "memberCount": 107,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 98761258,
+        "name": "Roblox Event Organizer",
+        "rank": 4
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-552598701d026485cf59940bfcf30e51/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 33291926,
+      "name": "Box2Box Football",
+      "memberCount": 16,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 102556317,
+        "name": "Developer",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-104dd9337599a8b31491c023ed47a3f0/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 33201381,
+      "name": "IndoConnect Transport",
+      "memberCount": 140664,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 104887845,
+        "name": "Representative",
+        "rank": 33
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b2ed8c34fd8aef9113fc84433af82913/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 12051064,
+      "name": "Community Feedback Program",
+      "memberCount": 323,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 70228504,
+        "name": "Program Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-21c895a6660887ad3318f220245b9d41/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 32380040,
+      "name": "Sejahtera Obby",
+      "memberCount": 11874,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 100479066,
+        "name": "Tester",
+        "rank": 100
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8e88bdfd3e23e221708598b836a15c2a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 32807325,
+      "name": "United Roblox of Indonesia",
+      "memberCount": 5,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 99941266,
+        "name": "URI Founder",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ed96a1a024fa41b6052ffaf0e546f103/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 16940462,
+      "name": "Semar Collection",
+      "memberCount": 1129,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 94455842,
+        "name": "Customer",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d9f566d14ebb8d86f811c174c8256e7f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 17225278,
+      "name": "Andre Nicholas UGC",
+      "memberCount": 95155,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 98330222,
+        "name": "Affiliate",
+        "rank": 102
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7ead10f91656d526f7344c499dae6ee1/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 8319812,
+      "name": "Andre Nicholas Community",
+      "memberCount": 26063,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 65532163,
+        "name": "Best Supporter",
+        "rank": 25
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a446df15797cc1ea60cbcd32ef58381d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 15772045,
+      "name": "ACBooth",
+      "memberCount": 1117,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 88565055,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f4a74678f8889bed0b4cff62149307bf/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 11313421,
+      "name": "Garuda Expeditions",
+      "memberCount": 1150563,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 70481005,
+        "name": "Novice Climber",
+        "rank": 2
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-276659927d95ff65e4e54544d491f472/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14918033,
+      "name": "KØMODO LAB",
+      "memberCount": 14,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 84297219,
+        "name": "□ Contributor",
+        "rank": 252
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a76607676e4b47d755de937fee49caaa/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14927168,
+      "name": "Kemenkeu RI",
+      "memberCount": 31,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 84343666,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ad12f883e9c75c72ef7d2f082909ab52/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 10701151,
+      "name": "[KAI] Kereta Api Indonesia",
+      "memberCount": 13465,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 63639661,
+        "name": "Penumpang Kelas Ekonomi",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-bde38c5e2abdc06807da2badb74ab273/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14362212,
+      "name": "AKRI: Office of Corporate Relations",
+      "memberCount": 8,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 81505948,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9fdc9d9e72343dce2e717052c85bd795/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14362203,
+      "name": "AKRI: Office of Activist Resources",
+      "memberCount": 1,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 81505896,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8308459b1b4d551f4ef73e9f99c83d9e/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14362149,
+      "name": "AKRI: Office of Feature Application",
+      "memberCount": 15,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 81505618,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-bf687731bfa4d36909bf9459411acdfe/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14362092,
+      "name": "AKRI: Office of Event Organizer",
+      "memberCount": 1,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 81505331,
+        "name": "1st Event Organizer",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6cad282edc1acb4a9da4d9b314d57794/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14140927,
+      "name": "PKN STAN",
+      "memberCount": 89,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 80393187,
+        "name": "Admin",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a76fbb7a289c497eff0f03dea43a0832/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14036120,
+      "name": "METARA",
+      "memberCount": 36,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 79869640,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-813baf78731f4116b4d49651d498f0ca/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 13780626,
+      "name": "Nusantara Production",
+      "memberCount": 8032,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 79265101,
+        "name": "Roblox Event Organizer",
+        "rank": 12
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-30b1a5ed492083c00331fc26f1fa5412/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3090950,
+      "name": "Kotak Bicara",
+      "memberCount": 706,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 21240415,
+        "name": "Event Organizer",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7e4a0d976528d0b28ff582d423661a5e/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 13684298,
+      "name": "Roblox Marketplace Indonesia Official Group!",
+      "memberCount": 1319,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 78099072,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9f8f2696cc1933c70d1499f7efda5a97/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 12040503,
+      "name": "Young's Wear",
+      "memberCount": 24524,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 74884355,
+        "name": "Developer",
+        "rank": 215
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a110492ad397af83486bc9d7a2791fe3/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6613107,
+      "name": "aFz Team Indonesia",
+      "memberCount": 642440,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 94089562,
+        "name": "• Terkenal ⭐",
+        "rank": 20
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c1f4729fcbb0bd943b38bfc29ce09191/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 12792524,
+      "name": "Play and Create!",
+      "memberCount": 211,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 73774839,
+        "name": "Developer Program",
+        "rank": 30
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-62a77498870f7836756b2cd74d71f887/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4292376,
+      "name": "Roblox Developers Conference '21",
+      "memberCount": 1412,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 28974868,
+        "name": "Fan",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1ae2a1dc0d1abcf1fa0d6abbe3f02f9a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 11887532,
+      "name": "Portal Raiders Development",
+      "memberCount": 473,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 69420383,
+        "name": "Contributor",
+        "rank": 10
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-96d6653061a9a1c7df936884c9cf34e1/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 11527063,
+      "name": "Ghoib Studios",
+      "memberCount": 20,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 67686816,
+        "name": "Game Tester",
+        "rank": 252
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-38dc263a5ab829b199cbe4fd04aa23fb/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 10884667,
+      "name": "CDID Studio Official Group",
+      "memberCount": 433739,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 64356012,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-be25417726928967abb9eaed0eddbdad/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 10919456,
+      "name": "IndoFair Roblox",
+      "memberCount": 152,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 72482026,
+        "name": "Distributors",
+        "rank": 253
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e4ed65389f4999c5e3537ad0f93533b2/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 10909850,
+      "name": "Roblox Meme Museum",
+      "memberCount": 9,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 64484185,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-58a6e81d295fcea97eb00aecdcff4ace/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 10720185,
+      "name": "Roblox Developer Community",
+      "memberCount": 179472,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 63574952,
+        "name": "Developer",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0d8d3b44e1b93dce1073967920e3c89c/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 10821801,
+      "name": "HQ Developer",
+      "memberCount": 2399,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 64037058,
+        "name": "Roblox Event Organizer",
+        "rank": 252
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1aa5b9cbf6a1962526dd30d71f5132bb/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7069915,
+      "name": "GrandMini Games Studio",
+      "memberCount": 14988,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 44776442,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b05d1d6c7c6347ff579621d21a7a11cd/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 10233829,
+      "name": "Bobux Game Studios",
+      "memberCount": 6,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 61080542,
+        "name": "The Far East",
+        "rank": 220
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-58a6e81d295fcea97eb00aecdcff4ace/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9514773,
+      "name": "HH Games Studio",
+      "memberCount": 65439,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 78315924,
+        "name": "System Analyst",
+        "rank": 4
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-dd62a1f7e7cd3f9ed63ba4b8b9e8e774/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 5097136,
+      "name": "Learning Resources",
+      "memberCount": 6992,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 45425590,
+        "name": "Educational Partners",
+        "rank": 135
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3a9d0128f34989c8a3efa0edd98f837a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9420522,
+      "name": "Creator Events",
+      "memberCount": 96,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 56919306,
+        "name": "Event Organizers",
+        "rank": 10
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-da374efbdcd49074a8a3c5556b26607f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9532989,
+      "name": "the order of the purple iris",
+      "memberCount": 5,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 57499062,
+        "name": "secret police",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d39bb85c95a0f61b240bb90ccd91c262/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 953808,
+      "name": "Komodo Airways",
+      "memberCount": 1552,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 18979752,
+        "name": "First Class",
+        "rank": 4
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a85061979d1b2499c84b42a84f288164/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9256665,
+      "name": "trx powered games",
+      "memberCount": 25,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 56080558,
+        "name": "Holder",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9e463120fb3b8c387a40035dada0bbab/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3514227,
+      "name": "Roblox DevForum Community",
+      "memberCount": 10896,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 24160940,
+        "name": "Regular",
+        "rank": 2
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-53749753c2faf0202ab150ef536788ce/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 5255603,
+      "name": "The Karya",
+      "memberCount": 3563,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 34983957,
+        "name": "Contributor",
+        "rank": 240
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b26161ae109e903e1af1bdbf7521897b/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 8236831,
+      "name": "Al Qolam Pictures",
+      "memberCount": 6655,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 54001522,
+        "name": "Reputable",
+        "rank": 2
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7a69a5c5760f059a3c620016bf9923c8/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7923838,
+      "name": "Miminers",
+      "memberCount": 314836,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 49260194,
+        "name": "Miminers",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d9e301de18bedc30a213dad9de0e5a1d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7862454,
+      "name": "Papua",
+      "memberCount": 401,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 48937845,
+        "name": "dewan perwakilan minoritas",
+        "rank": 253
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8214a76b81bb23468eace60f900dbf54/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7770032,
+      "name": "Sejahtera Abadi",
+      "memberCount": 130457,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 48451120,
+        "name": "Vice chairman",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-92b9de6edca50a249d46bd14167bcb32/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6568851,
+      "name": "Kertas Game Interactive",
+      "memberCount": 188,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 42415918,
+        "name": "Quality Assurance",
+        "rank": 250
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8bad04611f48d484893002325b6b34e8/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6529903,
+      "name": "Damkar Indonesia",
+      "memberCount": 214,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 41957364,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-be14ac71106b6f99d3250ab71e49dd81/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6505878,
+      "name": "Wonderful Indonesia",
+      "memberCount": 1053,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 41833573,
+        "name": "Administrator",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-511e14d1cb0fe669b3d55e299cea7846/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2841415,
+      "name": "Nusantara",
+      "memberCount": 1513,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 19367924,
+        "name": "Executive",
+        "rank": 50
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2725e1b165df77d30130b3c622dae97f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3588895,
+      "name": "Nusantara Period",
+      "memberCount": 182,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 30480031,
+        "name": "Peasants",
+        "rank": 80
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ad33b725b675bc1a78c0aa872a010500/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2567273,
+      "name": "Garuda Revolution",
+      "memberCount": 1013,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 16979170,
+        "name": "Trooper",
+        "rank": 2
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5fbdc0b3e09287106008d75ba0ed468a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4230486,
+      "name": "Tim Nasional Indonesia",
+      "memberCount": 4046,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 28585373,
+        "name": "T | Director",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fa598a495f041e48cbd9fa2c3669feef/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 5245162,
+      "name": "Indonesian Aerospace (IAe)",
+      "memberCount": 209,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 34899588,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c742d289750925f8f0fd5c9567d51363/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 5239327,
+      "name": "TransJakarta",
+      "memberCount": 131,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 34862401,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0159bc195ce7b24eb0d05d43b88af397/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 5191865,
+      "name": "[IN] Tentara Nasional Indonesia Angkatan Udara",
+      "memberCount": 385,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 34565966,
+        "name": "Allied Representative",
+        "rank": 11
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a5ab09de1fd85297557cc10002c7eef4/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 5073042,
+      "name": "[INAF] Tentara Nasional Indonesia Angkatan Darat",
+      "memberCount": 1655,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 36803471,
+        "name": "Calon Tamtama",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-97b372f5696af1f3ff4a8db08a3f0359/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3026704,
+      "name": "Roblox Malaysian Union",
+      "memberCount": 36287,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 24797369,
+        "name": "🪙 Honoured Member | Ahli Kehormat",
+        "rank": 15
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-23122dbd0b563867fb0e1c30416bcfc8/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3445891,
+      "name": "Citilink™",
+      "memberCount": 1530,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 23770632,
+        "name": "Representative",
+        "rank": 3
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a80d19f3230f2ba6dbe13de47190ee89/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4749839,
+      "name": "Kementerian Perhubungan Republik Indonesia",
+      "memberCount": 1489,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 31794485,
+        "name": "Conceptor",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-011d489ef32b6305d4fb86c46474ed15/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4747757,
+      "name": "FROXI Production House",
+      "memberCount": 801,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 31782187,
+        "name": "Director",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-98e24b0da5c7e669e70dd1ffc90f8891/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4747751,
+      "name": "Kementerian Pemuda dan Olahraga",
+      "memberCount": 241,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 31782159,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-dd207f85327cf5136cfedb9321222b36/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4640616,
+      "name": "People's Consultative Assembly",
+      "memberCount": 4,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 31129989,
+        "name": "Conceptor",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9d6e2505abae7a00851415bf0003e0dd/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4637795,
+      "name": "Mahkamah Agung",
+      "memberCount": 4,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 31112001,
+        "name": "Conceptor",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-009f59a1f6f8a34d657fecab963a2143/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4637794,
+      "name": "Mahkamah Konstitusi",
+      "memberCount": 67,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 31111997,
+        "name": "Conceptor",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-25b1abb8a5589e5ef2abc7e963489b23/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4595634,
+      "name": "AKRI International Events",
+      "memberCount": 3937,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 30849445,
+        "name": "1st Event Organizer",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-99b5242c71b2b726e44f4e39dbd9ce2d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4412529,
+      "name": "POLRI | Police Of Republic Indonesia",
+      "memberCount": 28654,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 29721294,
+        "name": "[GS] General Staff",
+        "rank": 72
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d92d3d0aad4b0c68a99466b566a9b1b2/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3184239,
+      "name": "Garuda Indonesia®™",
+      "memberCount": 14440,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 21931383,
+        "name": "First Class",
+        "rank": 7
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ef38f0d55a49dacdfa8585aa290da12d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1216608,
+      "name": "Tentara Nasional Indonesia",
+      "memberCount": 2937,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 8046391,
+        "name": "SECATAM",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-07c68f7b35e17c9aeb8ba73b689b8d7b/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4271987,
+      "name": "Indonesian Ministry of Foreign Affairs",
+      "memberCount": 192,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 28846236,
+        "name": "Holder",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-60bd4211e11bf8ec9895dd1c9582db49/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2641260,
+      "name": "[IN] Indonesia",
+      "memberCount": 159433,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 17579470,
+        "name": "Group Holder",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9c0b6c3cb38937ee084b2f48ac0b3f3c/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 14129301,
+      "name": "Asset 14129301",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-61505ec7a34f302c8628e8e5dd5f0672/150/150/FaceAccessory/Png/noFilter"
+    },
+    {
+      "id": 4482868732,
+      "name": "Black Slick Buzzcut",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-36353f145793f2475235ef84781df0f6/150/150/HairAccessory/Png/noFilter"
+    },
+    {
+      "id": 6002963825,
+      "name": "Tank top",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-97ef29a9809d0d1ff40ddbf82b13bb5a/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 7193104827,
+      "name": "Shoes-Flats-Left-Black",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-dec113e2fa5f920ce9a6901fb0470df0/150/150/LeftShoeAccessory/Png/noFilter"
+    },
+    {
+      "id": 13881788203,
+      "name": "Guardian's Scarf",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-16d746811191ecd7df26033dc44d9c88/150/150/NeckAccessory/Png/noFilter"
+    },
+    {
+      "id": 14898382070,
+      "name": "[LEGACY] Peci Kopiah",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-063b37776f8d31ffa3ba022139acf180/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 18814041371,
+      "name": "Sarung (Red)",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-315690e0b24c2ff17964ea8ed762b1be/150/150/PantsAccessory/Png/noFilter"
+    },
+    {
+      "id": 18903887628,
+      "name": "Uniform Batik (White)",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-86511c62ccd273b93eb92de8017fef97/150/150/ShirtAccessory/Png/noFilter"
+    },
+    {
+      "id": 76691628978545,
+      "name": "Epic Face - Mood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e267189086b759d895908d5c6342a7e4/150/150/MoodAnimation/Png/noFilter"
+    },
+    {
+      "id": 80812301272157,
+      "name": "15th Victory Jump",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2dea2c84d85f7297dd96909a2cd1479d/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 93075310246069,
+      "name": "Epic Face - Head",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1d22ce1f050bf3b5e263737b1b058cbd/150/150/DynamicHead/Png/noFilter"
+    },
+    {
+      "id": 112498318043611,
+      "name": "Indonesia Gaming Rating System KeyChain",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8bb7c4d2bf873e9c9ca3c7bf1a240e41/150/150/WaistAccessory/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [
+    {
+      "id": 6904130770,
+      "name": "Code Library Asia",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-950708626319e299abab674f3b11816b/150/150/GameIcon11/Png/noFilter"
+    },
+    {
+      "id": 6813447093,
+      "name": "Baseplate",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-007dc222a830b5992e1a04073454e980/150/150/GameIcon10/Png/noFilter"
+    },
+    {
+      "id": 3198546127,
+      "name": "Indo Voice",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-aa549436b7f6038f06b819bc212c5b7c/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 65241,
+      "name": "Natural Disaster Survival",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ac1c764a99cfae201fd4fe916170a218/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1722988797,
+      "name": "Space Sailors",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5ae4ade23d7a8d47b4ebe6b5e2f50fe7/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2398801143,
+      "name": "Color Battle 🏆",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-497a25bda5f4ac76311e3b5646f4ed52/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2249099972,
+      "name": "[ 🤠 UPDATE 2 ] Business Simulator",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-513533a63806567b5ee93ea56f0f1a03/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2118796018,
+      "name": "Hafiz GO : Skyland Tower",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3fc17c296460c5a8c88a108a601a2031/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 358276974,
+      "name": "Apocalypse Rising 2",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-85a9900216c274f656f58e3f43cb14f6/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1426962,
+      "name": "Apocalypse Rising ",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5139d739de384495ae6b9cf2bddc0675/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 918677693,
+      "name": "Rise of Nations",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f4810af4473fef2efcd095d072d31542/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1154305229,
+      "name": "Hang Out III",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3ba5d13ac5b948e7926bb7d6d673f8e3/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 662377122,
+      "name": "shrug",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-016a7d2c28c567b9a2e0bf1d626d8586/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 415355994,
+      "name": "Bali Beach Hotel (Under Renovation)",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0017725301fa366aace363116e61bab9/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 659772269,
+      "name": "0",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d111e601a049bc036dbee4dd47894778/150/150/GameIcon6/Png/noFilter"
+    },
+    {
+      "id": 670794241,
+      "name": "KeradCity | Alpha",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3d901a487d687fa293778c1b3c35ff2c/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 221086860,
+      "name": "Hangout 2",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-48b30fd5ff18765b6dc4abda6858a28c/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 113491250,
+      "name": "Phantom Forces",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-717f6839a37d00ddc8bcc9863e7ae6da/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 55886605,
+      "name": "Stab your friend - ALPHA",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-dc729135d7789ab11a92a9d761648577/150/150/GameIcon2/Png/noFilter"
+    },
+    {
+      "id": 54241894,
+      "name": "The Uri HQ Place (U.H.P)",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-950708626319e299abab674f3b11816b/150/150/GameIcon11/Png/noFilter"
+    },
+    {
+      "id": 105605339,
+      "name": "URI | Hangout (The First Indo Voice)",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d294468b78613ba531d7aac1eb2e31ed/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 108388144,
+      "name": "School",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-55f24c4f0a10653c67f48120983a1b09/150/150/GameIcon5/Png/noFilter"
+    },
+    {
+      "id": 1280002,
+      "name": "Armored Patrol v9.3",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-11e035ea1bda46729b6d90dbec9f5a33/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 55055796,
+      "name": "Garuda Maintenance Facility",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-51f0860063b7ee0313cfaf8db7200096/150/150/GameIcon1/Png/noFilter"
+    },
+    {
+      "id": 33704319,
+      "name": "ROBLOXian Mosque",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8c353be34538e596bc21c155a27da5bf/150/150/GameIcon4/Png/noFilter"
+    },
+    {
+      "id": 13416013,
+      "name": "U.R.I Temporary Meeting Place",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-dc729135d7789ab11a92a9d761648577/150/150/GameIcon2/Png/noFilter"
+    },
+    {
+      "id": 30995098,
+      "name": "Battle of the Titans (new game coming soon...)",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-27f1e320e9267362a93b16002083faa6/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 106086152,
+      "name": "TPS: Ultimate Soccer ⚽",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8b0f8943493834d3944057a1d9754839/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 32032556,
+      "name": "Disaster hotel",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2db57aed999eba2b7946cd436a3e4c95/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14286350,
+      "name": "Hospital Roleplay",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d4057e2b8696fe10b78d7c8691ad87fb/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 16600266,
+      "name": "Flood Escape: Classic",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-56cf0729f152ddb75602b92b0c5af435/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 38604512,
+      "name": "Roblox Hotel & Resort Five Stars ★★★★★",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-76db0d44cd568899a82b9a2020bb7117/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 19948360,
+      "name": "Build to survive the zombies",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-452fb528a630415d183933ff4f2ab2bf/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1320160,
+      "name": "Paintball!",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a5b17b640bf94c3f2d06e8dd30f9b698/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 36126972,
+      "name": "Land a space shuttle! update!",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-58f225075787e17ac8c6dc51fbac28f7/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 828855,
+      "name": "Survive a Sinking Ship",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8c353be34538e596bc21c155a27da5bf/150/150/GameIcon4/Png/noFilter"
+    },
+    {
+      "id": 30399820,
+      "name": "The Bread Factory",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3a60bc8cf9eeca3efb65b8067e7d9061/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6172875,
+      "name": "Pilot Paradise™ (WORKING AGAIN!)",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-78738fe877b7f608fdaa854eb5c1ccb1/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 38500,
+      "name": "The Original Robloxian High School ",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2db3ef742a98cf2aed05c69e7e7374a0/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35162222,
+      "name": "memories",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8a2116bd9d541c179d7bd4e611fe58b8/150/150/GameIcon3/Png/noFilter"
+    },
+    {
+      "id": 24395476,
+      "name": "BLOX co. Mining [FIXED] v2.5",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f6504153bdc2d42f58dc20b43f2e2e5d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 25502723,
+      "name": "HOTEL ROLEPLAY",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-65ae5c529e3568fe9fdcdb4d733a650a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 32513440,
+      "name": "Ride a rocket to the ISS or MOON!",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b662b409dbacf5a1b519aebd925fb546/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 974919,
+      "name": "Escape The Prison",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d7111346ced0d95b9554387c7e9c1eff/150/150/Image/Png/noFilter"
+    }
+  ],
+  "creations": [
+    {
+      "id": 6691333977,
+      "name": "Build The Bridge",
+      "description": "Build bridges to escape The Sinking Islands!",
+      "placeId": 124355101874350,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2024-10-22T14:28:17.147Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-007dc222a830b5992e1a04073454e980/150/150/GameIcon10/Png/noFilter"
+    },
+    {
+      "id": 2811848509,
+      "name": "Inaugurasi MT Kimia Farma 2021",
+      "description": "",
+      "placeId": 7222887868,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2022-06-08T10:28:09.75Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2a5e6f059e56a26b0d8084d92513b090/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 2103936158,
+      "name": "Exhibit A",
+      "description": "",
+      "placeId": 5884629066,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2020-12-31T13:52:44.577Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8a2116bd9d541c179d7bd4e611fe58b8/150/150/GameIcon3/Png/noFilter"
+    },
+    {
+      "id": 1981960351,
+      "name": "maul's Place",
+      "description": "",
+      "placeId": 5642385698,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2024-07-25T19:26:46.823Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6f04369060213cc72bbec0d8dd5a47a4/150/150/GameIcon8/Png/noFilter"
+    },
+    {
+      "id": 117923889,
+      "name": "URI | Hangout",
+      "description": "United Roblox of Indonesia Hangout\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\nOrang Indonesia pintar, masuk sini : http://www.roblox.com/Groups/group.aspx?gid=832676\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\n∎ PERATURAN\r\n- Gak boleh rusuh/ngecheat.\r\n- Gak boleh manas-manasin Petinggi URI\r\n- Hormati orang lain.\r\n- Disiplin kalau ada acara\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\n∎ KATA KUNCI\r\nQ = Hormat\r\nE = Istirahat Ditempat\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\n∎ ADMIN COMMANDS :\r\n- \"open/1\" or \"close/1\" Buat buka Ruang Rapat\r\n- \"open/2\" or \"close/2\" Buat buka Ruang Seminar\r\n- \"open/3\" or \"close/3\" Buat buka Ruang Pengadilan\r\n- \"mic1/on\" or \"mic1/off\" Buat matiin/nyalain mic di Lapangan\r\n- \"mic2/on\" or \"mic2/off\" Buat matiin/nyalain mic di Seminar\r\n- \"mic3/on\" or \"mic3/off\" Buat matiin/nyalain mic di Pengadilan\r\n- \"c/on\" or \"c/off\" Buat matiin/nyalain chat\r\n- \"fs/on\" or \"fs/off\" Buat matiin/nyalain situasi formal\r\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\r\nTerima kasih kepada LeeLiQs dan uang 150rb buat mendapatkan tempat ini.",
+      "placeId": 313598821,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2021-11-26T08:18:11.943Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1f5c9c0518c7ba50c7ca7f2993a6f160/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 110259382,
+      "name": "Natuna-Ranai to Mida ",
+      "description": "Airline : \r\n-Garuda Indonesia\r\n\r\nNATUNA-RANAI INTERNATIONAL AIRPORT\r\nLocated at the edge of Indonesian Territory, Natuna-Ranai Airport served Tourist and Cargoes off and into the Great Natuna Island, Riau Islands. Above are planes flying to/from Australia and Singapore, strategic for emergency landing of Wide Body Aircraft. Small Terminal, just enough to support 50 passengers.\r\n\r\nMIDA AIRSTRIP\r\nVery small, short grass runway at the island of Mida. To serve tourist as tourist attractions on this island are great. Doesn't operate at night or when raining.\r\n\r\nCredits to Eximinator23 for the Musholla, but soon will be replaced with my own version.",
+      "placeId": 278104207,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2020-11-13T15:36:56.29Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8345fb146f976b34999c83073d3617fc/150/150/Image/Png/noFilter"
+    }
+  ]
+}

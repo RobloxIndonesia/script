@@ -1,0 +1,742 @@
+{
+  "description": "Hi, I'm Arza, I live in Indonesia.🇮🇩",
+  "created": "2025-08-10T12:32:50.766Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": false,
+  "id": 9163259666,
+  "name": "azure7967",
+  "displayName": "RobIox_lndo",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-C091D65921C50F8AD6CF038D2BCC5A6A-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C091D65921C50F8AD6CF038D2BCC5A6A-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 211,
+  "followersCount": 5,
+  "followingCount": 42,
+  "communities": [
+    {
+      "id": 405191853,
+      "name": "buzzword games",
+      "memberCount": 3340956,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d1dbd0a718a90988a43c12a63d0313e1/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14511880,
+      "name": "Waffle's UGC",
+      "memberCount": 597705,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 82249177,
+        "name": "UGC Goblins",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e8706e6b0c3ab471cb0cc749b51ea170/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 644650481,
+      "name": "Reflections Studio!!",
+      "memberCount": 708190,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 471990002,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0e0dbef034c4cc708cefc98bad5a525e/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35503758,
+      "name": "Brendump",
+      "memberCount": 1806871,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 269818006,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6ba32ae3fd444882fc9c78cf9715e875/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1074557114,
+      "name": "SecretVerse Studio",
+      "memberCount": 123019389,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 574302045,
+        "name": "Membre",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-db74fceaea35485eca889c5e5842ae1e/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 494523617,
+      "name": "Mukbang Corner",
+      "memberCount": 24099534,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Muncher",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-44b26bb949eb961a828aa1a00f34983f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 469782201,
+      "name": "By Roblox Indonesia",
+      "memberCount": 102,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Anggota",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f1243fc35f270d193c0ca141171f9965/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 5677095,
+      "name": "Moon Animator",
+      "memberCount": 76345,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 37375801,
+        "name": "🔸 Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fae5be35870d2d7166ce443cb46a5a62/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 978083139,
+      "name": "Taubah Community",
+      "memberCount": 324974,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 508512074,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-88ebe99c5f0ab47fd0c1d0b2a14ca584/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 34091161,
+      "name": "P2W Games Studio",
+      "memberCount": 2301706,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 106895453,
+        "name": "[💸] Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-431cd480b692df66d03c0882dbee8a68/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 33016906,
+      "name": "Punchline Team",
+      "memberCount": 4656591,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 101067562,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-17bc5139d64650e7508a6a445d68faba/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 34181511,
+      "name": "BINARY TECH",
+      "memberCount": 3534547,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 107399645,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-52f1ec5d913800adf8b590600e734bf5/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35864011,
+      "name": "Galanto Studios",
+      "memberCount": 1489078,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 352926166,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c3ec4090286b075e6fe195d98897eecf/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 34873833,
+      "name": "Mask Creations",
+      "memberCount": 862892,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 140590273,
+        "name": "Owner",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fad630e15ad05cb0f84f4d28d5f71bcc/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 36090205,
+      "name": "FRIENDS IMRAN",
+      "memberCount": 7659542,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 403994136,
+        "name": "Anggota",
+        "rank": 2
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-70b74e7cc7323508a2231582987cf7f4/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 36041335,
+      "name": "Nectar Creations",
+      "memberCount": 2233925,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 383578256,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2aec3d83e6454901857de7ccff02c137/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 340445664,
+      "name": "Bocchi Space",
+      "memberCount": 3668591,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 606822028,
+        "name": "Anggota",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6ecaf3dd8e0cedb4a28dd290c2018d1a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3104358,
+      "name": "Brookhaven by Voldex",
+      "memberCount": 12006428,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 21339070,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9e81ca266381cba504751e909b880cc2/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1096748528,
+      "name": "KyleUTube Studios",
+      "memberCount": 315187,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 614256252,
+        "name": "Members 👯",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1221e4ece4b2108ea535ce8f0d63b51e/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 32974902,
+      "name": "The Nexus Realms",
+      "memberCount": 5243,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d742323abf667e0932aa8b27e49dd36c/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 127081,
+      "name": "Roblox Wiki",
+      "memberCount": 3680078,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 667096,
+        "name": "Wiki Helper",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-022bf1c24a1fda248bdd055c2c751b91/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35688006,
+      "name": "DoncelG24 and Friends",
+      "memberCount": 5106170,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 302656020,
+        "name": "Pro 😎",
+        "rank": 250
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7fa966fcdc5ef9a9f9e0cba030daff90/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 10636753,
+      "name": "GALAnist Studio",
+      "memberCount": 688675,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 63152114,
+        "name": "Citizen",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6f35fbc4da8dea62235ce001cc66d55d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 15102943,
+      "name": "Catalog Avatar Creator",
+      "memberCount": 40770487,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 85245797,
+        "name": "✨ Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-33d8c30fc374a244e81a23074d40ee24/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14984341,
+      "name": "Copyrend's Community",
+      "memberCount": 6162762,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 84635464,
+        "name": "🌀 Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e35be2578842526927fe00fa18462bb7/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 86500008,
+      "name": "Man Torso",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b00fe663767400cd833edb9413c61149/150/150/Torso/Png/noFilter"
+    },
+    {
+      "id": 86500036,
+      "name": "Man Right Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-17f0caac846c5544e24cf0af75b630f8/150/150/RightArm/Png/noFilter"
+    },
+    {
+      "id": 86500054,
+      "name": "Man Left Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-aaaa3624543203def3e7a7ce923cac6c/150/150/LeftArm/Png/noFilter"
+    },
+    {
+      "id": 86500064,
+      "name": "Man Left Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4ffe05e98a747fd24b4c921c9e23247c/150/150/LeftLeg/Png/noFilter"
+    },
+    {
+      "id": 86500078,
+      "name": "Man Right Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-939daf47e103b18178ab2be94af0f077/150/150/RightLeg/Png/noFilter"
+    },
+    {
+      "id": 144076760,
+      "name": "Dark Green Jeans",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-596d5c180068725a14691864bc353931/150/150/Pants/Png/noFilter"
+    },
+    {
+      "id": 301820684,
+      "name": "John’s Scarf",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5bdc867eb16db4dcb146eda1fba9df6d/150/150/NeckAccessory/Png/noFilter"
+    },
+    {
+      "id": 607785314,
+      "name": "ROBLOX Jacket",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-914b519635775ae28b804e7d93acc928/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 2510230574,
+      "name": "Rthro Climb",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4c6caabc04393842e252b4a51fcccb62/150/150/ClimbAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510233257,
+      "name": "Rthro Fall",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f3e2271075e28f6170e285f0cce66ee0/150/150/FallAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510235063,
+      "name": "Rthro Idle",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e6f3a18514b1a4865084f8f0491b9a01/150/150/IdleAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510236649,
+      "name": "Rthro Jump",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0ea1385a412e94431d16fbe5b8212e21/150/150/JumpAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510238627,
+      "name": "Rthro Run",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-818b181a39fabe94c2a45efdc258b2d9/150/150/RunAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510240941,
+      "name": "Rthro Swim",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a45f60ea96e33dd0c166079ec06a8ddb/150/150/SwimAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510242378,
+      "name": "Rthro Walk",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-258c547ad40df233a2eba719c80d7823/150/150/WalkAnimation/Png/noFilter"
+    },
+    {
+      "id": 6909084751,
+      "name": "Artist Backpack",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c8d65a644d4ea51643bdc5455414f403/150/150/BackAccessory/Png/noFilter"
+    },
+    {
+      "id": 14131560221,
+      "name": "Hex-Echo Headset",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8fdac0a8c0af9624fa87ddd72fe5cbfb/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 102833621122272,
+      "name": "Musical Mindset Aura",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-095489bd49cbd0180b933eef86877295/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 119934643965525,
+      "name": "Starwisp",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-86be7a76d785a24b5afb124f69281b08/150/150/ShoulderAccessory/Png/noFilter"
+    },
+    {
+      "id": 128664505443105,
+      "name": "RIA Voting Hub 2026 - Welcome Cap",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-68482fe990bb254a5af94a25fb161244/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 130085563806536,
+      "name": "Friendship Badge",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4db8fe03e1cfbe0e09429f6041ebfd4a/150/150/FrontAccessory/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [
+    {
+      "id": 9777594324,
+      "name": "[UPD] Kopdes Together ",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8ead9b5cdb9e0a1f70b6c88545dcf31a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4389818822,
+      "name": "Soul Haunted House👻Roleplay",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ddcc8d50e55d720aa29436ccceafa705/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7554119808,
+      "name": "🛍️ My Avatar!",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6456e2461fc537a77f35c225493137b9/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 10213583516,
+      "name": "👥 Make a Friend Request",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-96e466fb67df59ce27205a74677d1c82/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 10123448606,
+      "name": "Would You Rather: Makeover Tower 💖",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1c3c156ea092309baeba79e01fd59b2e/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7497802350,
+      "name": "Guess the Meme or Die 🔊",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-cfe774cfd05c668629aae551337b693c/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 10010371086,
+      "name": "Invincible Edit Test",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e93ccc561159fb274e3c0620d485a27f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9774284077,
+      "name": "Logo Color Bridge",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5e75ab03a0d66abf1501f5ccc0806780/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9857357565,
+      "name": "Tebak Yuk!💬",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3463132152c6950f58fcf2299bc965db/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9980643140,
+      "name": "[UPD] MBG Driver",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-087eb64c3a49f1b8b7a6d357821e7d56/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1952819680,
+      "name": "Cocos Time Trial 2 ⏰",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6ef8b0914554242bb2fc823f70f7e3c1/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9152162259,
+      "name": "Mosque At-Taubah 🕌 2026",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-69b86b7afa3c0454c05dd5145596bdc9/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7000924848,
+      "name": "Бесплатные Вещи",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c216451095133d31ce1c2d725d7d8073/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9671745030,
+      "name": "[AW SHUCKS] Luuynix's Animations",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fc2c090e523ac355dd0267aa4477ee36/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9529988839,
+      "name": "[MOVED] Trending Meme Animations",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-36877290329a1042902aab6f495b7f48/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 45866902,
+      "name": "Find the Epic Face",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6d5daa865a3d3ca97974d3afc6d18a37/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6009077009,
+      "name": "Escape Muka Legend Tower!",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a0e474cf13cdcd4e8c80e1dd978e31d3/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7716204381,
+      "name": "Acil Chase Tower",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6e331b7a32b0c0adcbecdfb3ae789fba/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7438977383,
+      "name": "Tower Aku Dah Lupa",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-43b6181b108d3e38b127d7406caa86d8/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7658676858,
+      "name": "Glide Tower",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-804def08f92fedd758f486057750b98a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9363735110,
+      "name": "[🌊] Escape Tsunami For Brainrots!",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e06420155286bbbe9499e1d2ea6b6229/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 8357232245,
+      "name": "Roblox Moments",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d722a114946fe93edd8ef5b7c0b28e4d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 8058794025,
+      "name": "[PETS] Sleep For UGC",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-08feca776302e57c4850ab6e8a193de2/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6801627818,
+      "name": "Obby For Free Rewards 🎁",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1603cf63714d524baaf5e4e9d5c881ba/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 13058,
+      "name": "Classic: Crossroads",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-03529af97a21dcc29156c5384cc1b01b/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9762595651,
+      "name": "[SOLO] Studio Ratapan Solo",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ac2e6bc23768571a9f99f13d74904927/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9828847171,
+      "name": "Coffee Stage Tower (300+ STAGES!)",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1d5d16d8e211d91d1400d53ba1af813a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3951147015,
+      "name": "Studio Lite",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-30136dcd23ac75106ab551af3a9c48c4/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9546331833,
+      "name": "[LEVEL!] Sambung Kata 💬",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-79642fbd4e3d1491b18a95ea1b97cd43/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3251383064,
+      "name": "Petals",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a9d683dd1f9a89efe5c318c879aa09b3/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 141525295,
+      "name": "Next Car Racing '24",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f33875f0c6136b5b6929a9f9f941989f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7857274278,
+      "name": "[💎100+] Free UGC Obby (AFK or Play)",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c6416095ad4b2e98ed0579fc9ebc536f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 5205170427,
+      "name": "Eid 2026🕌|Salah & Prayer Simulator City RP",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c30cdccc480c49edb4f0dfbea79faac3/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7290515704,
+      "name": "☪️ Puasa Tower",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-96faa8722da03156b5222cbf312bbf63/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 8144393814,
+      "name": "[ 6+ Animation!!! ] Galaxy Meme Animation",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-09a0bc88c39ba92527d87cdb5e812482/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7748887396,
+      "name": "😺 EL GATO'S PRISON RUN! (Obby)",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4aaa4189c83fb53260f950fd81e00ac9/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6649845578,
+      "name": "💥 Script Shenanigans",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-421529a0d0dd8349240c27f1b668244f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3382965986,
+      "name": "About the Hackers! 🧑‍💻",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-000c4156ee9ac3568b8f243f8d3f3a02/150/150/Image/Png/noFilter"
+    }
+  ],
+  "creations": [
+    {
+      "id": 8399238984,
+      "name": "Tempat azure7967",
+      "description": "Ini adalah kreasi Roblox pertamamu. Ayo cek lalu buat sendiri dengan Roblox Studio!",
+      "placeId": 133113261907736,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2025-08-10T12:32:52.477Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-51f0860063b7ee0313cfaf8db7200096/150/150/GameIcon1/Png/noFilter"
+    }
+  ]
+}

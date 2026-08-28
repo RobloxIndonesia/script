@@ -1,0 +1,200 @@
+{
+  "description": "",
+  "created": "2006-03-08T17:17:52.9Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": true,
+  "id": 156,
+  "name": "builderman",
+  "displayName": "builderman",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-882C70E071E5997E51F8CB373002AFC3-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-882C70E071E5997E51F8CB373002AFC3-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 0,
+  "followersCount": 71319059,
+  "followingCount": 67854140,
+  "communities": [
+    {
+      "id": 9,
+      "name": "Turbo Builders Club",
+      "memberCount": 519694,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 11,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6e2ce26d91ab2cb113c18e07e5c67304/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 8,
+      "name": "Builders Club",
+      "memberCount": 1357653,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 41,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0ccf7ecf979b480154c229ab33e03f08/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3829,
+      "name": "Staff",
+      "memberCount": 291893,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 15271,
+        "name": "ROBLOX Staff",
+        "rank": 250
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4f355c6ab74b584781196852821f2406/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 5,
+      "name": "Builderman",
+      "memberCount": 1068781,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 89,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b1664b43cd7a36beb6b0c005394d4814/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 11844853,
+      "name": "Turbo Builders Club Hard Hat",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9eed2d2f837a93ee12cb5f6d9bff6571/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 27112025,
+      "name": "Roblox 2.0 Torso",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-271a68464e32a0d7c24c2df0869032a4/150/150/Torso/Png/noFilter"
+    },
+    {
+      "id": 27112039,
+      "name": "Roblox 2.0 Right Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-cde2fb350b1700d66307301b82354031/150/150/RightArm/Png/noFilter"
+    },
+    {
+      "id": 27112052,
+      "name": "Roblox 2.0 Left Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a3d37550da978952156bcee43786671a/150/150/LeftArm/Png/noFilter"
+    },
+    {
+      "id": 27112056,
+      "name": "Roblox 2.0 Left Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-acc37ef5bfa1ee35bb12fed183291f03/150/150/LeftLeg/Png/noFilter"
+    },
+    {
+      "id": 27112068,
+      "name": "Roblox 2.0 Right Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2dcb264de6d4914d887d03c433c7e2d6/150/150/RightLeg/Png/noFilter"
+    },
+    {
+      "id": 129458426,
+      "name": "Jeans",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8b0a5061d37ccfa66aae8ac1c07f4044/150/150/Pants/Png/noFilter"
+    },
+    {
+      "id": 3670737444,
+      "name": "Roblox Shirt - Simple Pattern",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fdfe24ce27cfd8dc42697b6f48e14750/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 10638267973,
+      "name": "Stevie Standard - Head",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-85d2b47d95324c1bdfe869096f6b4088/150/150/DynamicHead/Png/noFilter"
+    },
+    {
+      "id": 10647852134,
+      "name": "Default Fall Back Mood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-89b455e966d25e8084b8ba0f84b9a427/150/150/MoodAnimation/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [
+    {
+      "id": 31532538,
+      "name": "The Oasis",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0ed5af86d16ecffc368ae46809aac23f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 479437,
+      "name": "Roblox Tutorial (Legacy)",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3c3959228e75bfca9362ff446e34953b/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1430801,
+      "name": "Briguy's ROBLOX Tutorial (Legacy)",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d111e601a049bc036dbee4dd47894778/150/150/GameIcon6/Png/noFilter"
+    },
+    {
+      "id": 1081610,
+      "name": "ROBLOX Spanish Tutorial/Tutorial ROBLOX Español",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fa8f93d9b752be89983f1a2c525c5e25/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1138081,
+      "name": "New Place",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-dc729135d7789ab11a92a9d761648577/150/150/GameIcon2/Png/noFilter"
+    },
+    {
+      "id": 120362,
+      "name": "Tutorial for all people NEW DESING",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8a2116bd9d541c179d7bd4e611fe58b8/150/150/GameIcon3/Png/noFilter"
+    },
+    {
+      "id": 559668,
+      "name": "*Tutorial*",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-51f0860063b7ee0313cfaf8db7200096/150/150/GameIcon1/Png/noFilter"
+    },
+    {
+      "id": 173259,
+      "name": "Script Builder",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f1ce8c2c97db90b26a7b4dc0d59c2493/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 154611,
+      "name": "✪Ultimate Paintball",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-742bd94e1c464061bd1663c8babb3b6f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 114146,
+      "name": "N/A",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8a2116bd9d541c179d7bd4e611fe58b8/150/150/GameIcon3/Png/noFilter"
+    }
+  ],
+  "creations": []
+}

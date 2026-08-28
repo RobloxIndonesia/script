@@ -1,0 +1,266 @@
+{
+  "description": "....",
+  "created": "2023-11-23T03:47:26.653Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": false,
+  "id": 5257375902,
+  "name": "Miminloveroblox",
+  "displayName": "Ini_Mimin",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-1FD995401115BA1FA1FC030968844C3A-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1FD995401115BA1FA1FC030968844C3A-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 188,
+  "followersCount": 71149,
+  "followingCount": 3,
+  "communities": [
+    {
+      "id": 617312490,
+      "name": "IWTM10GTMPLS",
+      "memberCount": 2359401,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 12884901889,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-20224a1c2d78b7375cf53c0b9afee913/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 789550514,
+      "name": "Last Hope - Production",
+      "memberCount": 783,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 688445051,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-aa1e1d9e89442e9e447e5e05a737e9d3/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 832676,
+      "name": "Asosiasi Komunitas Roblox Indonesia",
+      "memberCount": 462118,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 5106958,
+        "name": "Joined",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-183e47ce20e1f4bd303c2a4ff17d4d56/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 587768738,
+      "name": "TNT GAME LAB",
+      "memberCount": 7,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 611660202,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-19a853fd49850f9edeecb0c7931c4b5c/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6042520,
+      "name": "Grandma's Favourite Games",
+      "memberCount": 12130850,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 39395954,
+        "name": "Members",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c615df5080e453516283b1974b249ecd/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35455005,
+      "name": "don't read the group's description",
+      "memberCount": 431052,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 253226382,
+        "name": "member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-87249609dae614261c1058785f217b72/150/150/UnapprovedImage/Png/noFilter"
+    },
+    {
+      "id": 7,
+      "name": "Roblox",
+      "memberCount": 13452689,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 200,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-dd8f9bac6a0aea7a85478428ab845d87/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 878492,
+      "name": "ROBLOX Developers",
+      "memberCount": 4124,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 5702306,
+        "name": "Pre-Developers",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a0e5bfe79aa68d60713e86314bfaca63/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35565469,
+      "name": "Pelangi di Mars",
+      "memberCount": 1316,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 272560243,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-584a9121f46730e1889b3faa3e3eabe1/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14984056,
+      "name": "Kalananti",
+      "memberCount": 1572,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 149096211,
+        "name": "Intermediate Teacher",
+        "rank": 252
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1321906a50ead7455c368cf17a5d2a0d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7923838,
+      "name": "Miminers",
+      "memberCount": 314836,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 49260193,
+        "name": "Admin",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d9e301de18bedc30a213dad9de0e5a1d/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 607702162,
+      "name": "Roblox Baseball Cap",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e52847fa471ef24a0baaa50ac7fd43a2/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 1090130630,
+      "name": "Astronaut Run",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-faae5fe8bd45e2447445710702f2d439/150/150/RunAnimation/Png/noFilter"
+    },
+    {
+      "id": 1090131576,
+      "name": "Astronaut Walk ",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-85a914725675589f435e41d03a144424/150/150/WalkAnimation/Png/noFilter"
+    },
+    {
+      "id": 1090132063,
+      "name": "Astronaut Fall",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-95b50e62715166e639c18c79fb2ee94a/150/150/FallAnimation/Png/noFilter"
+    },
+    {
+      "id": 1090132507,
+      "name": "Astronaut Jump",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-897035f1e648822b1d138d5419f3aee6/150/150/JumpAnimation/Png/noFilter"
+    },
+    {
+      "id": 1090133099,
+      "name": "Astronaut Idle",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e454c945621ec11d3db512f3b099e44f/150/150/IdleAnimation/Png/noFilter"
+    },
+    {
+      "id": 1090133583,
+      "name": "Astronaut Swim",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1479e7907af395296988dee8b8ecb722/150/150/SwimAnimation/Png/noFilter"
+    },
+    {
+      "id": 1090134016,
+      "name": "Astronaut Climb",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b470309cfb3b3535c165bfe42cb5f7f7/150/150/ClimbAnimation/Png/noFilter"
+    },
+    {
+      "id": 6553589977,
+      "name": "White Suit w/ Black Vest [+]",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ecbb9e8ecb4d09f173effd14342d9974/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 7415534613,
+      "name": "Formal Pants",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-bd627a7807c45fde910c242af862e10a/150/150/Pants/Png/noFilter"
+    },
+    {
+      "id": 12132993312,
+      "name": "White Cat On Your Shoulders (3.0)",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fe0a7f997f11f7c10f35c4695b6871db/150/150/NeckAccessory/Png/noFilter"
+    },
+    {
+      "id": 14618207727,
+      "name": "Default Mood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8e8d9e30f84eab0c8674d9e5b7f0f348/150/150/MoodAnimation/Png/noFilter"
+    },
+    {
+      "id": 18115924935,
+      "name": "Silly Cat Cape",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a39b88ce5421b897ab9baaa24b505368/150/150/BackAccessory/Png/noFilter"
+    },
+    {
+      "id": 18178775343,
+      "name": "Classic Giant 2D - Dynamic Head",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f8bb4051ac69b3c9d452d83a85cd6121/150/150/DynamicHead/Png/noFilter"
+    },
+    {
+      "id": 82900300098892,
+      "name": "Bag CAT Front",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6cf8c66ec003f19cdaceb877d1cbfbd5/150/150/FrontAccessory/Png/noFilter"
+    },
+    {
+      "id": 115729746112109,
+      "name": "Animated Silly Tongue Snorlax GIF",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-314d22acbbc6525b80235082673b12ad/150/150/ShoulderAccessory/Png/noFilter"
+    },
+    {
+      "id": 120831257273023,
+      "name": "Cat with a Knife",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e722020c5a834060ad2563d131797706/150/150/WaistAccessory/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [
+    {
+      "id": 10067483055,
+      "name": "Go Ghost!👻",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-47a7cbb758c685afab2b549665c210d8/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7326934954,
+      "name": "[🪶] 99 Nights in the Forest 🔦",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ad2dcbc33cd533a2b5780606c6bb45eb/150/150/Image/Png/noFilter"
+    }
+  ],
+  "creations": [
+    {
+      "id": 5325326183,
+      "name": "Miminloveroblox's Place",
+      "description": "This is your very first Roblox creation. Check it out, then make it your own with Roblox Studio!",
+      "placeId": 15434612748,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2023-11-23T03:47:28.143Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c86b7d253016e3d58e6a91a13f62dab7/150/150/GameIcon12/Png/noFilter"
+    }
+  ]
+}

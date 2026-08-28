@@ -1,0 +1,203 @@
+{
+  "description": "Halo Semua Saya Roblox Indonesia versi yang asli @RobloxIndonesia_old",
+  "created": "2025-12-06T14:04:59.264Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": true,
+  "id": 10090200735,
+  "name": "RobIox_lndo",
+  "displayName": "Roblox_Indonesia",
+  "imageUrl": "https://robloxindonesia.github.io/img/30DAY-Avatar-ED6E504DCD0989309333C3F87B84DC2E.png",
+  "avatarHeadshotUrl": "https://robloxindonesia.github.io/img/30DAY-AvatarHeadshot-ED6E504DCD0989309333C3F87B84DC2E.png",
+  "friendsCount": 341,
+  "followersCount": 32,
+  "followingCount": 2,
+  "communities": [
+    {
+      "id": 0,
+      "name": "Komunitas 1",
+      "memberCount": 0,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 0,
+        "name": "Anggota",
+        "rank": 1
+      },
+      "imageUrl": "https://robloxindonesia.github.io/img/180DAY-a17918617b20ac9c39b305241f23e58a.png"
+    },
+    {
+      "id": 0,
+      "name": "Komunitas 2",
+      "memberCount": 0,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 0,
+        "name": "Anggota",
+        "rank": 1
+      },
+      "imageUrl": "https://robloxindonesia.github.io/img/180DAY-a17918617b20ac9c39b305241f23e58a.png"
+    },
+    {
+      "id": 0,
+      "name": "Komunitas 3",
+      "memberCount": 0,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 0,
+        "name": "Anggota",
+        "rank": 1
+      },
+      "imageUrl": "https://robloxindonesia.github.io/img/180DAY-a17918617b20ac9c39b305241f23e58a.png"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 86500008,
+      "name": "Man Torso",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b00fe663767400cd833edb9413c61149/150/150/Torso/Png/noFilter"
+    },
+    {
+      "id": 86500036,
+      "name": "Man Right Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-17f0caac846c5544e24cf0af75b630f8/150/150/RightArm/Png/noFilter"
+    },
+    {
+      "id": 86500054,
+      "name": "Man Left Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-aaaa3624543203def3e7a7ce923cac6c/150/150/LeftArm/Png/noFilter"
+    },
+    {
+      "id": 86500064,
+      "name": "Man Left Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4ffe05e98a747fd24b4c921c9e23247c/150/150/LeftLeg/Png/noFilter"
+    },
+    {
+      "id": 86500078,
+      "name": "Man Right Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-939daf47e103b18178ab2be94af0f077/150/150/RightLeg/Png/noFilter"
+    },
+    {
+      "id": 144076760,
+      "name": "Dark Green Jeans",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-596d5c180068725a14691864bc353931/150/150/Pants/Png/noFilter"
+    },
+    {
+      "id": 607702162,
+      "name": "Roblox Baseball Cap",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e52847fa471ef24a0baaa50ac7fd43a2/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 607785314,
+      "name": "ROBLOX Jacket",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-914b519635775ae28b804e7d93acc928/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 2510230574,
+      "name": "Rthro Climb",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4c6caabc04393842e252b4a51fcccb62/150/150/ClimbAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510233257,
+      "name": "Rthro Fall",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f3e2271075e28f6170e285f0cce66ee0/150/150/FallAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510235063,
+      "name": "Rthro Idle",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e6f3a18514b1a4865084f8f0491b9a01/150/150/IdleAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510236649,
+      "name": "Rthro Jump",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0ea1385a412e94431d16fbe5b8212e21/150/150/JumpAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510238627,
+      "name": "Rthro Run",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-818b181a39fabe94c2a45efdc258b2d9/150/150/RunAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510240941,
+      "name": "Rthro Swim",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a45f60ea96e33dd0c166079ec06a8ddb/150/150/SwimAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510242378,
+      "name": "Rthro Walk",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-258c547ad40df233a2eba719c80d7823/150/150/WalkAnimation/Png/noFilter"
+    },
+    {
+      "id": 10638267973,
+      "name": "Stevie Standard - Head",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-85d2b47d95324c1bdfe869096f6b4088/150/150/DynamicHead/Png/noFilter"
+    },
+    {
+      "id": 10647852134,
+      "name": "Default Fall Back Mood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-89b455e966d25e8084b8ba0f84b9a427/150/150/MoodAnimation/Png/noFilter"
+    },
+    {
+      "id": 14131515346,
+      "name": "Hexonoval Jacket",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1c8e9070b631a3fed016d9dde2436b90/150/150/JacketAccessory/Png/noFilter"
+    },
+    {
+      "id": 0,
+      "name": "Lencana Pembangunan",
+      "imageUrl": "/img/lencana-pembangunan.png"
+    },
+    {
+      "id": 6555172461,
+      "name": "JParty Plushie",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1f9e912167a61850c5bde8c5962aecde/150/150/ShoulderAccessory/Png/noFilter"
+    },
+    {
+      "id": 130085563806536,
+      "name": "Friendship Badge",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4db8fe03e1cfbe0e09429f6041ebfd4a/150/150/FrontAccessory/Png/noFilter"
+    },
+    {
+      "id": 135303791228610,
+      "name": "Logo Roblox Indonesia V",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-03f30c066d91fa10ffe7f3395c742179/150/150/Tshirt/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [
+    {
+      "id": 1686885941,
+      "name": "Brookhaven 🏡RP",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-18a8ad6e9d17d2fa2a0abae01b5ab648/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7326934954,
+      "name": "[🪶] 99 Nights in the Forest 🔦",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ad2dcbc33cd533a2b5780606c6bb45eb/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 65241,
+      "name": "Natural Disaster Survival",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ac1c764a99cfae201fd4fe916170a218/150/150/Image/Png/noFilter"
+    }
+  ],
+  "creations": [
+    {
+      "id": 9308795517,
+      "name": "[Baru] Buat Game Roblox Indonesia",
+      "description": "Selamat Datang Di Game Buat Saya :)",
+      "placeId": 138296369949087,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2026-05-02T08:54:28.303Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-51cfa4376c221971db26e8b72d2b4c57/150/150/Image/Png/noFilter"
+    }
+  ]
+}

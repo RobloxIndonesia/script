@@ -1,0 +1,280 @@
+{
+  "description": "Sebagai Owner Roblox Indonesia (RIO)",
+  "created": "2024-04-23T08:39:47.453Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": true,
+  "id": 5814698762,
+  "name": "deden_sn",
+  "displayName": "Deden_SuryaNegara",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-2529128567202E7544D6DE8B4A73A17F-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2529128567202E7544D6DE8B4A73A17F-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 322,
+  "followersCount": 4,
+  "followingCount": 2,
+  "communities": [
+    {
+      "id": 469782201,
+      "name": "By Roblox Indonesia",
+      "memberCount": 102,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 712989209,
+        "name": "Developer",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f1243fc35f270d193c0ca141171f9965/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 15557357,
+      "name": "Awesome Ninja Games",
+      "memberCount": 3207209,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 88955191,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-25c0f2f5890c0914db7a5573f70d8d41/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1083268613,
+      "name": "Go Kart Track!",
+      "memberCount": 1467311,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 593600011,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-365189c6364b23e12afd10e023dbae70/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 127081,
+      "name": "Roblox Wiki",
+      "memberCount": 3680082,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 667096,
+        "name": "Wiki Helper",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-022bf1c24a1fda248bdd055c2c751b91/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 13641941,
+      "name": "[ Content Deleted 13641941 ]",
+      "memberCount": 1097854,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 84652042,
+        "name": "Fantastical Community Member",
+        "rank": 2
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-bd9a2716bb4aa6f132c8c6c343642d67/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 34181794,
+      "name": "Google",
+      "memberCount": 125856,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 107401397,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8c13080a010f9d044c20d7eb5e015c80/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35789249,
+      "name": "The Garden Game",
+      "memberCount": 19466819,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 335782025,
+        "name": "Gardener",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-45f7217e0d6d2cdd2a6b6a58848f6a7f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 15861447,
+      "name": "wwwilapy Studio's",
+      "memberCount": 46866,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 89020578,
+        "name": "Legends",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d47d5f5eb61382c555cafd371b2563b2/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 62234425,
+      "name": "Brown Hair",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2579acf81b849c7c583c0e733dc2db94/150/150/HairAccessory/Png/noFilter"
+    },
+    {
+      "id": 376530220,
+      "name": "ROBLOX Boy Left Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-bc0d975fd88306fd22f1883b5cbb41ed/150/150/LeftArm/Png/noFilter"
+    },
+    {
+      "id": 376531012,
+      "name": "ROBLOX Boy Right Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ff43a9ef27d3884913cc56fadee512d2/150/150/RightArm/Png/noFilter"
+    },
+    {
+      "id": 376531300,
+      "name": "ROBLOX Boy Left Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-901c3419263862bdd0e2699f21195164/150/150/LeftLeg/Png/noFilter"
+    },
+    {
+      "id": 376531703,
+      "name": "ROBLOX Boy Right Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-db253babbaff76263fdb8d922030d075/150/150/RightLeg/Png/noFilter"
+    },
+    {
+      "id": 376532000,
+      "name": "ROBLOX Boy Torso",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9d16df21f0244bb0cff060cad56067f3/150/150/Torso/Png/noFilter"
+    },
+    {
+      "id": 2510230574,
+      "name": "Rthro Climb",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4c6caabc04393842e252b4a51fcccb62/150/150/ClimbAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510233257,
+      "name": "Rthro Fall",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f3e2271075e28f6170e285f0cce66ee0/150/150/FallAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510235063,
+      "name": "Rthro Idle",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e6f3a18514b1a4865084f8f0491b9a01/150/150/IdleAnimation/Png/noFilter"
+    },
+    {
+      "id": 3662265036,
+      "name": "International Fedora - Indonesia",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-80d07522266a451098ec69675bab1c02/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 7193165925,
+      "name": "Shoes-Sneakers-Left-Gray",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-17c5252c278c3745ead86b756b7f0d90/150/150/LeftShoeAccessory/Png/noFilter"
+    },
+    {
+      "id": 7193166879,
+      "name": "Shoes-Sneakers-Right-Gray",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1a25a5c61eb2a73d75f716727a272b88/150/150/RightShoeAccessory/Png/noFilter"
+    },
+    {
+      "id": 10638267973,
+      "name": "Stevie Standard - Head",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-85d2b47d95324c1bdfe869096f6b4088/150/150/DynamicHead/Png/noFilter"
+    },
+    {
+      "id": 10647852134,
+      "name": "DefaultFallBackMood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-89b455e966d25e8084b8ba0f84b9a427/150/150/MoodAnimation/Png/noFilter"
+    },
+    {
+      "id": 13350322699,
+      "name": "SMA",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-df5f48517a350f73f0693f6706501512/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 17166233095,
+      "name": "SMA 🐰",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-75b19e71304a4b243b897a5b6450fbb7/150/150/Pants/Png/noFilter"
+    },
+    {
+      "id": 71032162877650,
+      "name": "RIA 2025 Stellar Branched Out Wings",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-01514abc83956f2298bca32534e98272/150/150/BackAccessory/Png/noFilter"
+    },
+    {
+      "id": 80751657390345,
+      "name": "RIA 2025 Traveler's Cosmic Spyglass Hat",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2a88717d5747124b71d8c4e67157f082/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 88530899341410,
+      "name": "RIA 2025 Never-ending Voting Panels",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-533ef4a992d29ac3de87e8f3e279e73c/150/150/FrontAccessory/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [
+    {
+      "id": 10562441534,
+      "name": "(UPDATE 3.5) OC NPC Playground",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-60c55da53b409be45e47ba3b65c4f911/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3448264866,
+      "name": "Industrialist",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-bc39967e17bc364dd8baf2a201731a64/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 8854479740,
+      "name": "[✨] Connections Finder!",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ae06bc83983d5529c6bdaa966210bfdf/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6068198288,
+      "name": "Overfarmed! ",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-10569d076090186d5583b7266c1722fa/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3924229233,
+      "name": "Physics Obby + Mechanisms",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0aab93af24fb26370d931192b2ebf94c/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 13058,
+      "name": "Classic: Crossroads",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-03529af97a21dcc29156c5384cc1b01b/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7436755782,
+      "name": "[📜] Grow a Garden 🌶️",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3f20da7e53897a959d933cc37d4a1831/150/150/Image/Png/noFilter"
+    }
+  ],
+  "creations": [
+    {
+      "id": 5905401317,
+      "name": "(SMANSawara) SMA Negeri 1 Way Jepara",
+      "description": "Sekolah Ini Sebagai Sejarah Dan Seru Di Mainkan",
+      "placeId": 17262104725,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2025-11-08T08:34:10.73Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d111e601a049bc036dbee4dd47894778/150/150/GameIcon6/Png/noFilter"
+    }
+  ]
+}

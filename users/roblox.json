@@ -1,0 +1,162 @@
+{
+  "description": "Welcome to the Roblox profile! This is where you can check out the newest items in the catalog, and get a jumpstart on exploring and building on our Imagination Platform. If you want news on updates to the Roblox platform, or great new experiences to play with friends, check out blog.roblox.com. Please note, this is an automated account. If you need to reach Roblox for any customer service needs find help at www.roblox.com/help",
+  "created": "2006-02-27T21:06:40.3Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": true,
+  "id": 1,
+  "name": "Roblox",
+  "displayName": "Roblox",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-310966282D3529E36976BF6B07B1DC90-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-310966282D3529E36976BF6B07B1DC90-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 0,
+  "followersCount": 17021376,
+  "followingCount": 0,
+  "communities": [
+    {
+      "id": 127081,
+      "name": "Roblox Wiki",
+      "memberCount": 3680061,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 676373,
+        "name": "Wiki System Operator",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-022bf1c24a1fda248bdd055c2c751b91/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4111519,
+      "name": "Roblox Presents",
+      "memberCount": 75,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 106072807,
+        "name": "Roblox",
+        "rank": 100
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ac9d521c8719f57213d2b26dae010a98/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7384468,
+      "name": "Roblox Arena Events",
+      "memberCount": 997,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 46417776,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2ed74622eb18392e3a56787ce7749ee2/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 301811432,
+      "name": "Oakley Pants",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-9ecd4a4f5a3b561b78c9f2d032213656/150/150/Pants/Png/noFilter"
+    },
+    {
+      "id": 607702162,
+      "name": "Roblox Baseball Cap",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e52847fa471ef24a0baaa50ac7fd43a2/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 607785314,
+      "name": "ROBLOX Jacket",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-914b519635775ae28b804e7d93acc928/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 2510230574,
+      "name": "Rthro Climb",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4c6caabc04393842e252b4a51fcccb62/150/150/ClimbAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510233257,
+      "name": "Rthro Fall",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f3e2271075e28f6170e285f0cce66ee0/150/150/FallAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510235063,
+      "name": "Rthro Idle",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e6f3a18514b1a4865084f8f0491b9a01/150/150/IdleAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510236649,
+      "name": "Rthro Jump",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0ea1385a412e94431d16fbe5b8212e21/150/150/JumpAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510238627,
+      "name": "Rthro Run",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-818b181a39fabe94c2a45efdc258b2d9/150/150/RunAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510240941,
+      "name": "Rthro Swim",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a45f60ea96e33dd0c166079ec06a8ddb/150/150/SwimAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510242378,
+      "name": "Rthro Walk",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-258c547ad40df233a2eba719c80d7823/150/150/WalkAnimation/Png/noFilter"
+    },
+    {
+      "id": 10638267973,
+      "name": "Stevie Standard - Head",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-85d2b47d95324c1bdfe869096f6b4088/150/150/DynamicHead/Png/noFilter"
+    },
+    {
+      "id": 10647852134,
+      "name": "Default Fall Back Mood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-89b455e966d25e8084b8ba0f84b9a427/150/150/MoodAnimation/Png/noFilter"
+    },
+    {
+      "id": 12995014400,
+      "name": "Man - Left Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8e1687efa8836a4bcbd96e80bf832fa8/150/150/LeftArm/Png/noFilter"
+    },
+    {
+      "id": 12995015868,
+      "name": "Man - Left Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3300dd19a138363d753991175ae9d255/150/150/LeftLeg/Png/noFilter"
+    },
+    {
+      "id": 12995017412,
+      "name": "Man - Right Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f53f1811649b60f46538d69171e999c7/150/150/RightArm/Png/noFilter"
+    },
+    {
+      "id": 12995018829,
+      "name": "Man - Right Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-52da9787eeed2de5176da603a61464d4/150/150/RightLeg/Png/noFilter"
+    },
+    {
+      "id": 12995020128,
+      "name": "Man - Torso",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a1a88b44a2ad74cc36e41040cb423528/150/150/Torso/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [
+    {
+      "id": 13058,
+      "name": "Classic: Crossroads",
+      "placeId": 1818,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-03529af97a21dcc29156c5384cc1b01b/150/150/Image/Png/noFilter"
+    }
+  ],
+  "creations": [
+    {
+      "id": 13058,
+      "name": "Classic: Crossroads",
+      "description": "The classic ROBLOX level is back!",
+      "placeId": 1818,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-03T00:05:22.203Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-03529af97a21dcc29156c5384cc1b01b/150/150/Image/Png/noFilter"
+    }
+  ]
+}
