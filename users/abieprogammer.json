@@ -1,0 +1,176 @@
+{
+  "description": "Saya akan lawan!",
+  "created": "2026-01-12T04:57:32.51Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": false,
+  "id": 10329972037,
+  "name": "AbieProGammer",
+  "displayName": "Abie",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-83F52EF10AB6246C9195A82264C212B4-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-83F52EF10AB6246C9195A82264C212B4-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 31,
+  "followersCount": 0,
+  "followingCount": 4,
+  "communities": [
+    {
+      "id": 384471972,
+      "name": "A Bundle Of Cats",
+      "memberCount": 1287258,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 592168113,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e8b1f4fb50ab2657c49fadbb723344b7/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 13997470,
+      "name": "Live on Roblox",
+      "memberCount": 2621146,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 79674793,
+        "name": "Music Fans",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-13951cc5acbda2731d3b9f98b95386a3/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 12836673,
+      "name": "Wiggity.",
+      "memberCount": 30290421,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 73986150,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-37e054187b03ff2892579de34be0642e/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 469782201,
+      "name": "By Roblox Indonesia",
+      "memberCount": 102,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 12884901889,
+        "name": "Anggota",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f1243fc35f270d193c0ca141171f9965/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 621333942,
+      "name": "Plenty of Planets",
+      "memberCount": 3366079,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 436942125,
+        "name": "earthling 🌍",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4ef96684b06612dd19415b11b0a95a12/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 34091161,
+      "name": "P2W Games Studio",
+      "memberCount": 2325404,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 106895453,
+        "name": "[💸] Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-431cd480b692df66d03c0882dbee8a68/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35669818,
+      "name": "크롱 스튜디오",
+      "memberCount": 55194545,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 290676163,
+        "name": "멤버",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-58bdb4485dd668671e1ddbf88af8258c/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 607702162,
+      "name": "Roblox Baseball Cap",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e52847fa471ef24a0baaa50ac7fd43a2/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 3164811019,
+      "name": "Spider Cola",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4855daef973527ddb2dc93d056b816c9/150/150/ShoulderAccessory/Png/noFilter"
+    },
+    {
+      "id": 76997048714989,
+      "name": "Shirt",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d87f86b9c8b9b90a91cc87281b559afb/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 95713843647941,
+      "name": "The Mask",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7b909e3969be24e04feb4a0746cebe38/150/150/FaceAccessory/Png/noFilter"
+    },
+    {
+      "id": 108763922926602,
+      "name": "Asset 108763922926602",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0e1bb016ac832e7ccc761cc26cff0f93/150/150/Tshirt/Png/noFilter"
+    },
+    {
+      "id": 133498216064543,
+      "name": "Black",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6d72a085b6e782b11627816097cb17ba/150/150/Pants/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [
+    {
+      "id": 6049736902,
+      "name": "Spelling Race",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ab614b6b953a55ad1f3656d756f55680/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 8292068736,
+      "name": "The Block",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-879e292d30c63f2644d4322658ab972d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9035240873,
+      "name": "Prove You Are Not a Dum-Dum",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c9bd3b23a43891ce0e415766ac9de537/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9193169923,
+      "name": "Meme Animations",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1293533d52c72843a63dfa2753a66d32/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 9163172976,
+      "name": "Normal Obby",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1cd14f9a9ec1cc64d57119793910fa05/150/150/Image/Png/noFilter"
+    }
+  ],
+  "creations": []
+}

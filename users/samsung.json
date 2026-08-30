@@ -1,0 +1,109 @@
+{
+  "description": "",
+  "created": "2024-12-17T10:25:29.425Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": true,
+  "id": 7713241893,
+  "name": "Samsung",
+  "displayName": "Samsung",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-D71A76BCBA9AB32861E14D47737BDCDA-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D71A76BCBA9AB32861E14D47737BDCDA-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 1,
+  "followersCount": 2081,
+  "followingCount": 0,
+  "communities": [
+    {
+      "id": 35289112,
+      "name": "Samsung Europe",
+      "memberCount": 37,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 229996015,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ffe8ebeb76a59ac86bd6728a2fbb6bcf/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 35359317,
+      "name": "GN2333221",
+      "memberCount": 1,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 252168107,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ffe8ebeb76a59ac86bd6728a2fbb6bcf/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 382537569,
+      "name": "Black Jeans",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-0808e57c5d721f09905b1a7f0351d63a/150/150/Pants/Png/noFilter"
+    },
+    {
+      "id": 1772336109,
+      "name": "Down to Earth Hair",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-38086e638f40670380e812629b6490c5/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 4047884939,
+      "name": "My Favorite Pizza Shirt",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-f358916370813fc68f368859e4a70937/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 4637119437,
+      "name": "NeoClassic C v2 - Left Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-54aef2c16fb1bea9fd808636fa6c4f15/150/150/LeftArm/Png/noFilter"
+    },
+    {
+      "id": 4637120072,
+      "name": "NeoClassic C v2 - Left Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8f6921ad25fb533d6288d1c2fe91ed61/150/150/LeftLeg/Png/noFilter"
+    },
+    {
+      "id": 4637120775,
+      "name": "NeoClassic C v2 - Right Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-747135f8e057fdf5b701808301285eda/150/150/RightArm/Png/noFilter"
+    },
+    {
+      "id": 4637122096,
+      "name": "NeoClassic C v2 - Right Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fc19928480234fc69813eb16fe527ec1/150/150/RightLeg/Png/noFilter"
+    },
+    {
+      "id": 4637151279,
+      "name": "NeoClassic C v2 - Torso",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-12bbb97b5be1685c8d70f611dfde9b5a/150/150/Torso/Png/noFilter"
+    },
+    {
+      "id": 10638267973,
+      "name": "Stevie Standard - Head",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-85d2b47d95324c1bdfe869096f6b4088/150/150/DynamicHead/Png/noFilter"
+    },
+    {
+      "id": 10647852134,
+      "name": "DefaultFallBackMood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-89b455e966d25e8084b8ba0f84b9a427/150/150/MoodAnimation/Png/noFilter"
+    },
+    {
+      "id": 108722286956486,
+      "name": "Purple Braid - Galaxy Hair",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4e5964549aca0f45f8214c49c74a9fd4/150/150/HairAccessory/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [
+    {
+      "id": 6898383118,
+      "name": "[NEW] Samsung’s Demon Hunt 👹🌌",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-70d83d35bcb93bda0c8b91ddfd3413b5/150/150/Image/Png/noFilter"
+    }
+  ],
+  "creations": []
+}

@@ -1,0 +1,111 @@
+{
+  "description": "",
+  "created": "2024-07-25T18:42:07.791Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": true,
+  "id": 7115002658,
+  "name": "Google",
+  "displayName": "Google",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-752C478525CE5E6661D048FBC5BE37E6-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-752C478525CE5E6661D048FBC5BE37E6-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 0,
+  "followersCount": 27123,
+  "followingCount": 0,
+  "communities": [
+    {
+      "id": 35489456,
+      "name": "Project Clara",
+      "memberCount": 123,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 257500096,
+        "name": "Developer",
+        "rank": 252
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8e399114afb46ca6ffece1857d63eff8/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 34181794,
+      "name": "Google",
+      "memberCount": 125876,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 107401395,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8c13080a010f9d044c20d7eb5e015c80/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 86500008,
+      "name": "Man Torso",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b00fe663767400cd833edb9413c61149/150/150/Torso/Png/noFilter"
+    },
+    {
+      "id": 86500036,
+      "name": "Man Right Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-17f0caac846c5544e24cf0af75b630f8/150/150/RightArm/Png/noFilter"
+    },
+    {
+      "id": 86500054,
+      "name": "Man Left Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-aaaa3624543203def3e7a7ce923cac6c/150/150/LeftArm/Png/noFilter"
+    },
+    {
+      "id": 86500064,
+      "name": "Man Left Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4ffe05e98a747fd24b4c921c9e23247c/150/150/LeftLeg/Png/noFilter"
+    },
+    {
+      "id": 86500078,
+      "name": "Man Right Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-939daf47e103b18178ab2be94af0f077/150/150/RightLeg/Png/noFilter"
+    },
+    {
+      "id": 144076358,
+      "name": "Blue and Black Motorcycle Shirt",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-170ef99bc1e8d689066a28878beff3b1/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 144076760,
+      "name": "Dark Green Jeans",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-596d5c180068725a14691864bc353931/150/150/Pants/Png/noFilter"
+    },
+    {
+      "id": 10638267973,
+      "name": "Stevie Standard - Head",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-85d2b47d95324c1bdfe869096f6b4088/150/150/DynamicHead/Png/noFilter"
+    },
+    {
+      "id": 10647852134,
+      "name": "DefaultFallBackMood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-89b455e966d25e8084b8ba0f84b9a427/150/150/MoodAnimation/Png/noFilter"
+    },
+    {
+      "id": 79772362201900,
+      "name": "Propeller Hat",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ca0b4a420d81040444c12171f7226c06/150/150/Hat/Png/noFilter"
+    },
+    {
+      "id": 125132969552521,
+      "name": "Internaut Backpack",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-26814947fa11b00c960e9e7bc3a04f12/150/150/BackAccessory/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [],
+  "creations": [
+    {
+      "id": 6319971244,
+      "name": "GooglexBIA's Place",
+      "description": "This is your very first Roblox creation. Check it out, then make it your own with Roblox Studio!",
+      "placeId": 18652998086,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2024-07-25T18:42:09.22Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-55f24c4f0a10653c67f48120983a1b09/150/150/GameIcon5/Png/noFilter"
+    }
+  ]
+}

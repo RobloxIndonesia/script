@@ -1,0 +1,51 @@
+{
+  "description": "",
+  "created": "2012-02-11T01:40:25.01Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": false,
+  "id": 23831651,
+  "name": "Instagram",
+  "displayName": "Instagram",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-DD50EEFE1751B4418F5E3DA00E869502-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DD50EEFE1751B4418F5E3DA00E869502-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 0,
+  "followersCount": 649,
+  "followingCount": 1,
+  "communities": [],
+  "currentlyWearing": [
+    {
+      "id": 48474294,
+      "name": "ROBLOX Girl - Hair",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1c049c680c87fc7f28f64229b244d123/150/150/HairAccessory/Png/noFilter"
+    },
+    {
+      "id": 48474356,
+      "name": "ROBLOX Girl - Torso",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c93215ae2e0f6b00c6d36edb06dbc9d6/150/150/Torso/Png/noFilter"
+    },
+    {
+      "id": 10638267973,
+      "name": "Stevie Standard - Head",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-85d2b47d95324c1bdfe869096f6b4088/150/150/DynamicHead/Png/noFilter"
+    },
+    {
+      "id": 10647852134,
+      "name": "DefaultFallBackMood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-89b455e966d25e8084b8ba0f84b9a427/150/150/MoodAnimation/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [],
+  "creations": [
+    {
+      "id": 19315115,
+      "name": "Instagram's Place",
+      "description": "",
+      "placeId": 72084233,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-03T08:26:23.077Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c86b7d253016e3d58e6a91a13f62dab7/150/150/GameIcon12/Png/noFilter"
+    }
+  ]
+}

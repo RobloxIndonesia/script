@@ -1,0 +1,40 @@
+{
+  "description": "",
+  "created": "2011-08-24T01:11:55.577Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": false,
+  "id": 19468722,
+  "name": "WhatsApp",
+  "displayName": "WhatsApp",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-96C5999E8FACB83F2B30692624F67B5B-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-96C5999E8FACB83F2B30692624F67B5B-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 0,
+  "followersCount": 302,
+  "followingCount": 1,
+  "communities": [],
+  "currentlyWearing": [
+    {
+      "id": 48474294,
+      "name": "ROBLOX Girl - Hair",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1c049c680c87fc7f28f64229b244d123/150/150/HairAccessory/Png/noFilter"
+    },
+    {
+      "id": 48474356,
+      "name": "ROBLOX Girl - Torso",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c93215ae2e0f6b00c6d36edb06dbc9d6/150/150/Torso/Png/noFilter"
+    },
+    {
+      "id": 10638267973,
+      "name": "Stevie Standard - Head",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-85d2b47d95324c1bdfe869096f6b4088/150/150/DynamicHead/Png/noFilter"
+    },
+    {
+      "id": 10647852134,
+      "name": "DefaultFallBackMood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-89b455e966d25e8084b8ba0f84b9a427/150/150/MoodAnimation/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [],
+  "creations": []
+}

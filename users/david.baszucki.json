@@ -1,0 +1,588 @@
+{
+  "description": "I'm the CEO and Co-Founder of ROBLOX. Really! I used to login as Builderman. Now I login both as david.baszucki, and also under several other accounts so as to view ROBLOX from the eyes of a regular player.",
+  "created": "2007-05-15T23:54:41.403Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": true,
+  "id": 24941,
+  "name": "david.baszucki",
+  "displayName": "david.baszucki",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-CD091D895E85620AE6C02E9F0D27BBE6-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CD091D895E85620AE6C02E9F0D27BBE6-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 74,
+  "followersCount": 255917,
+  "followingCount": 1585,
+  "communities": [
+    {
+      "id": 35312414,
+      "name": "Secret Handshake",
+      "memberCount": 1314,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 239970002,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3c83a8c06a8a4cd2ff1c97e467f0daad/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 4111519,
+      "name": "Roblox Presents",
+      "memberCount": 75,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 106072807,
+        "name": "Roblox",
+        "rank": 100
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ac9d521c8719f57213d2b26dae010a98/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 107778,
+      "name": "ROBLOX Employees",
+      "memberCount": 15,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 553617,
+        "name": "CEO",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-849c1b3607e2ab3b223345db2d035e94/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1,
+      "name": "RobloHunks",
+      "memberCount": 301222,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 169,
+        "name": "--",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-00606d360461b0333508cc43cfc029ee/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3,
+      "name": "CEO Group",
+      "memberCount": 113339,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 32,
+        "name": "Owner",
+        "rank": 255
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-3f6883412b3526ef0a0d8aaa498ed68d/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14,
+      "name": "Scripting",
+      "memberCount": 31,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 197,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b0a62d504100a6c1d15d604fa46dbd9a/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 15344070,
+      "name": "Roblox Early Career Recruiting",
+      "memberCount": 102055,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 86898266,
+        "name": "Staff",
+        "rank": 101
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5222531e6e99ec34654a4be8df282af6/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 14716024,
+      "name": "Iris-Group",
+      "memberCount": 211,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 83272711,
+        "name": "Admin",
+        "rank": 254
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-53a955be58da54f29dc5c0113bcb5501/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6821794,
+      "name": "Alpha Strike Group",
+      "memberCount": 739,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 72114238,
+        "name": "Member-Elevated",
+        "rank": 2
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e74d7cba1be99af131eb8492f04bd552/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6807398,
+      "name": "Play Ghostopia",
+      "memberCount": 10612,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 43404621,
+        "name": "Super Fan",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2df9ba97712d286b8cf2fd305115e2ab/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 7384468,
+      "name": "Roblox Arena Events",
+      "memberCount": 997,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 51207803,
+        "name": "QA Tester",
+        "rank": 5
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-2ed74622eb18392e3a56787ce7749ee2/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1200769,
+      "name": "Official Group of Roblox",
+      "memberCount": 2772,
+      "hasVerifiedBadge": true,
+      "role": {
+        "id": 41221804,
+        "name": "Team Member",
+        "rank": 20
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a6ed5fb50f78ec0962e880cf05679943/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 5767669,
+      "name": "The Official Bloxys",
+      "memberCount": 42,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 37891135,
+        "name": "Member",
+        "rank": 1
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-4d88098fccfb0f85bc1b7d0b5ede684f/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 156795,
+      "name": "Answers",
+      "memberCount": 349,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 58503242,
+        "name": "Admin+",
+        "rank": 252
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-7db42f61ec160a5c0b5bbb98baffaea3/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 3253689,
+      "name": "AvLab",
+      "memberCount": 1184,
+      "hasVerifiedBadge": false,
+      "role": {
+        "id": 22433104,
+        "name": "Admin",
+        "rank": 252
+      },
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-66bb42fc9fcb820d67dc3b66ddba16f9/150/150/Image/Png/noFilter"
+    }
+  ],
+  "currentlyWearing": [
+    {
+      "id": 14618207727,
+      "name": "Default Mood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8e8d9e30f84eab0c8674d9e5b7f0f348/150/150/MoodAnimation/Png/noFilter"
+    },
+    {
+      "id": 74720342946899,
+      "name": "AI Robot - Dynamic Head",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-1a3d9b996ccfc0f5891084bec00f0bc0/150/150/DynamicHead/Png/noFilter"
+    },
+    {
+      "id": 98063136085590,
+      "name": "AI Robot - Left Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-24a6352b9cdc8de7270952703f730754/150/150/LeftArm/Png/noFilter"
+    },
+    {
+      "id": 99869069066829,
+      "name": "AI Robot - Left Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5b5f1766eeddbb300e8f4e0453c353ed/150/150/LeftLeg/Png/noFilter"
+    },
+    {
+      "id": 108467995009457,
+      "name": "AI Robot - Torso",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-00d1b7666d0dd809adb6cb12a4a6e43a/150/150/Torso/Png/noFilter"
+    },
+    {
+      "id": 109055613297374,
+      "name": "AI Robot - Right Leg",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-463302bc9095b7b4ed15a3739dd83787/150/150/RightLeg/Png/noFilter"
+    },
+    {
+      "id": 109633543335760,
+      "name": "AI Robot - Right Arm",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-518e5d4a0af83afa1db0666175056513/150/150/RightArm/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [
+    {
+      "id": 1482020489,
+      "name": "Together Space",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d111e601a049bc036dbee4dd47894778/150/150/GameIcon6/Png/noFilter"
+    },
+    {
+      "id": 93740418,
+      "name": "Hide and Seek Extreme",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-e50353797d125464767287770cafd602/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 116059404,
+      "name": "B&E MK3 (Work in progress)",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-51f0860063b7ee0313cfaf8db7200096/150/150/GameIcon1/Png/noFilter"
+    },
+    {
+      "id": 84221715,
+      "name": "Twisted Murderer",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8805a39287bb684760371458ac7489bd/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 65241,
+      "name": "Natural Disaster Survival",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-ac1c764a99cfae201fd4fe916170a218/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 88683984,
+      "name": "Mad Paintball [FPS]",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-fe4c619cccd04a51eb8121ca67320701/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1426962,
+      "name": "Apocalypse Rising ",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5139d739de384495ae6b9cf2bddc0675/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 6386571,
+      "name": "⚰️ Broken Bones ⚰️",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8b01444deb0cbbb9c0d8d7ffee0391ab/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 1320160,
+      "name": "Paintball!",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a5b17b640bf94c3f2d06e8dd30f9b698/150/150/Image/Png/noFilter"
+    },
+    {
+      "id": 287260,
+      "name": "Θ Stargate Galaxy Θ",
+      "placeId": null,
+      "playing": 0,
+      "visits": 0,
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d96513cf8828fe11f7bd7dba436a5857/150/150/Image/Png/noFilter"
+    }
+  ],
+  "creations": [
+    {
+      "id": 1386995628,
+      "name": "test with zombies",
+      "description": "",
+      "placeId": 4263854787,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-10-31T21:45:31.39Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-51f0860063b7ee0313cfaf8db7200096/150/150/GameIcon1/Png/noFilter"
+    },
+    {
+      "id": 100503019,
+      "name": "David Tech Demo",
+      "description": "Playing",
+      "placeId": 235312810,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-05T12:13:00.27Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6f04369060213cc72bbec0d8dd5a47a4/150/150/GameIcon8/Png/noFilter"
+    },
+    {
+      "id": 100120691,
+      "name": "David Tech Demo",
+      "description": "Playing",
+      "placeId": 233502758,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-04T17:55:23.71Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c86b7d253016e3d58e6a91a13f62dab7/150/150/GameIcon12/Png/noFilter"
+    },
+    {
+      "id": 100060394,
+      "name": "Battery demo",
+      "description": "",
+      "placeId": 233225085,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-04T17:53:53.843Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8a2116bd9d541c179d7bd4e611fe58b8/150/150/GameIcon3/Png/noFilter"
+    },
+    {
+      "id": 100047464,
+      "name": "David Tech Demo",
+      "description": "Playing",
+      "placeId": 233167870,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-04T17:53:48.047Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b7320474b7db979e5754a1b55a381d6f/150/150/GameIcon9/Png/noFilter"
+    },
+    {
+      "id": 99394631,
+      "name": "Northbridge Demo",
+      "description": "Just made this",
+      "placeId": 230475590,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-04T17:38:29.29Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c86b7d253016e3d58e6a91a13f62dab7/150/150/GameIcon12/Png/noFilter"
+    },
+    {
+      "id": 98246592,
+      "name": "David Tech Demo",
+      "description": "Playing",
+      "placeId": 225672262,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-04T17:46:44.837Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-51f0860063b7ee0313cfaf8db7200096/150/150/GameIcon1/Png/noFilter"
+    },
+    {
+      "id": 87179974,
+      "name": "CameraTestPlace",
+      "description": "CameraTestPlace",
+      "placeId": 183670243,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-05T07:00:39.367Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-950708626319e299abab674f3b11816b/150/150/GameIcon11/Png/noFilter"
+    },
+    {
+      "id": 87178337,
+      "name": "Fun Camera Test",
+      "description": "Testing Camera.  Fun Camera Test.",
+      "placeId": 183666909,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-04T12:55:52.61Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d111e601a049bc036dbee4dd47894778/150/150/GameIcon6/Png/noFilter"
+    },
+    {
+      "id": 35357498,
+      "name": "david.baszucki's Place Number: 13",
+      "description": "",
+      "placeId": 93578326,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-03T14:22:39.74Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8a2116bd9d541c179d7bd4e611fe58b8/150/150/GameIcon3/Png/noFilter"
+    },
+    {
+      "id": 35353600,
+      "name": "david.baszucki's Place Number: 14",
+      "description": "",
+      "placeId": 93579561,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-04T10:25:35.053Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-55f24c4f0a10653c67f48120983a1b09/150/150/GameIcon5/Png/noFilter"
+    },
+    {
+      "id": 35335202,
+      "name": "david.baszucki's Place Number: 15",
+      "description": "",
+      "placeId": 93585891,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-03T14:22:10.98Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8a2116bd9d541c179d7bd4e611fe58b8/150/150/GameIcon3/Png/noFilter"
+    },
+    {
+      "id": 23983305,
+      "name": "david.baszucki's Place Number: 16",
+      "description": "",
+      "placeId": 95998007,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-03T10:17:33.957Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-007dc222a830b5992e1a04073454e980/150/150/GameIcon10/Png/noFilter"
+    },
+    {
+      "id": 20892987,
+      "name": "Eight Towers",
+      "description": "",
+      "placeId": 8287693,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-03T09:09:59.867Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8c353be34538e596bc21c155a27da5bf/150/150/GameIcon4/Png/noFilter"
+    },
+    {
+      "id": 13731549,
+      "name": "david.baszucki's Capture the Flag",
+      "description": "Testing",
+      "placeId": 97830190,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-03T06:26:19.467Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-007dc222a830b5992e1a04073454e980/150/150/GameIcon10/Png/noFilter"
+    },
+    {
+      "id": 10483160,
+      "name": "david.baszucki's --Big Air Skate Jump-- contest en",
+      "description": "A place originally entered in the Big Air Skate Jump contest",
+      "placeId": 23158060,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-03T04:45:08.387Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-b7320474b7db979e5754a1b55a381d6f/150/150/GameIcon9/Png/noFilter"
+    },
+    {
+      "id": 6653963,
+      "name": "David Baszucki CEO Build Server",
+      "description": "David Baszucki (CEO of ROBLOX) testing personal build servers.  Pushing for the most complex, gadgety place possible.",
+      "placeId": 65418267,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-03T03:21:17.53Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c86b7d253016e3d58e6a91a13f62dab7/150/150/GameIcon12/Png/noFilter"
+    },
+    {
+      "id": 548065,
+      "name": "Test Avatar Performance",
+      "description": "Test",
+      "placeId": 1807623,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-03T01:24:30.25Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-dc729135d7789ab11a92a9d761648577/150/150/GameIcon2/Png/noFilter"
+    },
+    {
+      "id": 110229,
+      "name": "ROBLOX's Place",
+      "description": "",
+      "placeId": 58891,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-01T21:39:31.05Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-007dc222a830b5992e1a04073454e980/150/150/GameIcon10/Png/noFilter"
+    },
+    {
+      "id": 15648,
+      "name": "Place1 Updated 4",
+      "description": "",
+      "placeId": 1500,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-01T21:33:46.26Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-51f0860063b7ee0313cfaf8db7200096/150/150/GameIcon1/Png/noFilter"
+    },
+    {
+      "id": 15635,
+      "name": "room_environment",
+      "description": "Play around with the furniture!",
+      "placeId": 1507,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-03T00:05:30.71Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c86b7d253016e3d58e6a91a13f62dab7/150/150/GameIcon12/Png/noFilter"
+    },
+    {
+      "id": 15618,
+      "name": "8 towers",
+      "description": "",
+      "placeId": 1508,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-01T21:33:46.3Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6b0a0f92f70c7748c90fb3d90dc56234/150/150/GameIcon7/Png/noFilter"
+    },
+    {
+      "id": 15599,
+      "name": "Doll 7Place",
+      "description": "This is a cool staring place for building up a nice house",
+      "placeId": 1524,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-03T00:05:30.47Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c86b7d253016e3d58e6a91a13f62dab7/150/150/GameIcon12/Png/noFilter"
+    },
+    {
+      "id": 15578,
+      "name": "Sandy Place",
+      "description": "A sand colored place",
+      "placeId": 1525,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-03T00:05:30.513Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-8a2116bd9d541c179d7bd4e611fe58b8/150/150/GameIcon3/Png/noFilter"
+    },
+    {
+      "id": 15558,
+      "name": "Classic Place",
+      "description": "Traditional grass color scheme",
+      "placeId": 1526,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-01T21:33:46.863Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-6b0a0f92f70c7748c90fb3d90dc56234/150/150/GameIcon7/Png/noFilter"
+    },
+    {
+      "id": 15540,
+      "name": "Brickyard v3",
+      "description": "Updated brickyard with all the colored 2x4 bricks",
+      "placeId": 1527,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-01T21:33:45.993Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-51f0860063b7ee0313cfaf8db7200096/150/150/GameIcon1/Png/noFilter"
+    },
+    {
+      "id": 14675,
+      "name": "Bulding Room",
+      "description": "This is a room with a bunch of bricks to get you started.",
+      "placeId": 1645,
+      "playing": 0,
+      "visits": 0,
+      "updated": "2019-04-03T00:05:27.447Z",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c86b7d253016e3d58e6a91a13f62dab7/150/150/GameIcon12/Png/noFilter"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "description": "",
+  "created": "2008-06-23T14:34:13.453Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": false,
+  "id": 554495,
+  "name": "Facebook",
+  "displayName": "Facebook",
+  "imageUrl": "https://tr.rbxcdn.com/30DAY-Avatar-8E7FE5082208EB70C375C4570B1CCABD-Png/720/720/Avatar/Webp/noFilter",
+  "avatarHeadshotUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8E7FE5082208EB70C375C4570B1CCABD-Png/150/150/AvatarHeadshot/Png/noFilter",
+  "friendsCount": 0,
+  "followersCount": 13468,
+  "followingCount": 0,
+  "communities": [],
+  "currentlyWearing": [
+    {
+      "id": 754636589,
+      "name": "Mage Fall",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-61c5cf064dbd92bc031bc9860bd14a5a/150/150/FallAnimation/Png/noFilter"
+    },
+    {
+      "id": 1113743239,
+      "name": "Vampire Climb",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-200f21208dee467a61e79026ecd4fa2e/150/150/ClimbAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510238627,
+      "name": "Rthro Run",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-818b181a39fabe94c2a45efdc258b2d9/150/150/RunAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510240941,
+      "name": "Rthro Swim",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-a45f60ea96e33dd0c166079ec06a8ddb/150/150/SwimAnimation/Png/noFilter"
+    },
+    {
+      "id": 2510242378,
+      "name": "Rthro Walk",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-258c547ad40df233a2eba719c80d7823/150/150/WalkAnimation/Png/noFilter"
+    },
+    {
+      "id": 5319917561,
+      "name": "Oldschool Jump",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-c8cde69fd8b09d3b93f1c2783dd5a0bd/150/150/JumpAnimation/Png/noFilter"
+    },
+    {
+      "id": 11573370910,
+      "name": "Anime - Mood",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-046a96d1a30d6d4db87d75a0bff714c8/150/150/MoodAnimation/Png/noFilter"
+    },
+    {
+      "id": 15093053680,
+      "name": "Headless Head",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-5d30ea2e004abe68a2db3b0d19fff763/150/150/DynamicHead/Png/noFilter"
+    },
+    {
+      "id": 100594973062101,
+      "name": "___________________________",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-d9559b7955b37ecdcf2aa75dd33a6293/150/150/Shirt/Png/noFilter"
+    },
+    {
+      "id": 105651215589232,
+      "name": "pants",
+      "imageUrl": "https://tr.rbxcdn.com/180DAY-88b35de461a8c898e184a4d7b6480401/150/150/Pants/Png/noFilter"
+    }
+  ],
+  "favoriteGames": [],
+  "creations": []
+}
